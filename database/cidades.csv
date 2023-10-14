@@ -1,0 +1,5571 @@
+CODIGO MUNICIPIO;UF;NOME MUNICIPIO
+110001 RO Alta Floresta d`Oeste
+110002 RO Ariquemes
+110003 RO Cabixi
+110004 RO Cacoal
+110005 RO Cerejeiras
+110006 RO Colorado do Oeste
+110007 RO Corumbiara
+110008 RO Costa Marques
+110009 RO Espigão d`Oeste
+110010 RO Guajará-Mirim
+110011 RO Jaru
+110012 RO Ji-Paraná
+110013 RO Machadinho d`Oeste
+110014 RO Nova Brasilândia d`Oeste
+110015 RO Ouro Preto do Oeste
+110018 RO Pimenta Bueno
+110020 RO Porto Velho
+110025 RO Presidente Médici
+110026 RO Rio Crespo
+110028 RO Rolim de Moura
+110029 RO Santa Luzia d`Oeste
+110030 RO Vilhena
+110032 RO São Miguel do Guaporé
+110033 RO Nova Mamoré
+110034 RO Alvorada d`Oeste
+110037 RO Alto Alegre dos Parecis
+110040 RO Alto Paraíso
+110045 RO Buritis
+110050 RO Novo Horizonte do Oeste
+110060 RO Cacaulândia
+110070 RO Campo Novo de Rondônia
+110080 RO Candeias do Jamari
+110090 RO Castanheiras
+110092 RO Chupinguaia
+110094 RO Cujubim
+110100 RO Governador Jorge Teixeira
+110110 RO Itapuã do Oeste
+110120 RO Ministro Andreazza
+110130 RO Mirante da Serra
+110140 RO Monte Negro
+110143 RO Nova União
+110145 RO Parecis
+110146 RO Pimenteiras do Oeste
+110147 RO Primavera de Rondônia
+110148 RO São Felipe d`Oeste
+110149 RO São Francisco do Guaporé
+110150 RO Seringueiras
+110155 RO Teixeirópolis
+110160 RO Theobroma
+110170 RO Urupá
+110175 RO Vale do Anari
+110180 RO Vale do Paraíso
+120001 AC Acrelândia
+120005 AC Assis Brasil
+120010 AC Brasiléia
+120013 AC Bujari
+120017 AC Capixaba
+120020 AC Cruzeiro do Sul
+120025 AC Epitaciolândia
+120030 AC Feijó
+120032 AC Jordão
+120033 AC Mâncio Lima
+120034 AC Manoel Urbano
+120035 AC Marechal Thaumaturgo
+120038 AC Plácido de Castro
+120039 AC Porto Walter
+120040 AC Rio Branco
+120042 AC Rodrigues Alves
+120043 AC Santa Rosa do Purus
+120045 AC Senador Guiomard
+120050 AC Sena Madureira
+120060 AC Tarauacá
+120070 AC Xapuri
+120080 AC Porto Acre
+130002 AM Alvarães
+130006 AM Amaturá
+130008 AM Anamã
+130010 AM Anori
+130014 AM Apuí
+130020 AM Atalaia do Norte
+130030 AM Autazes
+130040 AM Barcelos
+130050 AM Barreirinha
+130060 AM Benjamin Constant
+130063 AM Beruri
+130068 AM Boa Vista do Ramos
+130070 AM Boca do Acre
+130080 AM Borba
+130083 AM Caapiranga
+130090 AM Canutama
+130100 AM Carauari
+130110 AM Careiro
+130115 AM Careiro da Várzea
+130120 AM Coari
+130130 AM Codajás
+130140 AM Eirunepé
+130150 AM Envira
+130160 AM Fonte Boa
+130165 AM Guajará
+130170 AM Humaitá
+130180 AM Ipixuna
+130185 AM Iranduba
+130190 AM Itacoatiara
+130195 AM Itamarati
+130200 AM Itapiranga
+130210 AM Japurá
+130220 AM Juruá
+130230 AM Jutaí
+130240 AM Lábrea
+130250 AM Manacapuru
+130255 AM Manaquiri
+130260 AM Manaus
+130270 AM Manicoré
+130280 AM Maraã
+130290 AM Maués
+130300 AM Nhamundá
+130310 AM Nova Olinda do Norte
+130320 AM Novo Airão
+130330 AM Novo Aripuanã
+130340 AM Parintins
+130350 AM Pauini
+130353 AM Presidente Figueiredo
+130356 AM Rio Preto da Eva
+130360 AM Santa Isabel do Rio Negro
+130370 AM Santo Antônio do Içá
+130380 AM São Gabriel da Cachoeira
+130390 AM São Paulo de Olivença
+130395 AM São Sebastião do Uatumã
+130400 AM Silves
+130406 AM Tabatinga
+130410 AM Tapauá
+130420 AM Tefé
+130423 AM Tonantins
+130426 AM Uarini
+130430 AM Urucará
+130440 AM Urucurituba
+140002 RR Amajari
+140005 RR Alto Alegre
+140010 RR Boa Vista
+140015 RR Bonfim
+140017 RR Cantá
+140020 RR Caracaraí
+140023 RR Caroebe
+140028 RR Iracema
+140030 RR Mucajaí
+140040 RR Normandia
+140045 RR Pacaraima
+140047 RR Rorainópolis
+140050 RR São João da Baliza
+140060 RR São Luiz
+140070 RR Uiramutã
+150010 PA Abaetetuba
+150013 PA Abel Figueiredo
+150020 PA Acará
+150030 PA Afuá
+150034 PA Água Azul do Norte
+150040 PA Alenquer
+150050 PA Almeirim
+150060 PA Altamira
+150070 PA Anajás
+150080 PA Ananindeua
+150085 PA Anapu
+150090 PA Augusto Corrêa
+150095 PA Aurora do Pará
+150100 PA Aveiro
+150110 PA Bagre
+150120 PA Baião
+150125 PA Bannach
+150130 PA Barcarena
+150140 PA Belém
+150145 PA Belterra
+150150 PA Benevides
+150157 PA Bom Jesus do Tocantins
+150160 PA Bonito
+150170 PA Bragança
+150172 PA Brasil Novo
+150175 PA Brejo Grande do Araguaia
+150178 PA Breu Branco
+150180 PA Breves
+150190 PA Bujaru
+150195 PA Cachoeira do Piriá
+150200 PA Cachoeira do Arari
+150210 PA Cametá
+150215 PA Canaã dos Carajás
+150220 PA Capanema
+150230 PA Capitão Poço
+150240 PA Castanhal
+150250 PA Chaves
+150260 PA Colares
+150270 PA Conceição do Araguaia
+150275 PA Concórdia do Pará
+150276 PA Cumaru do Norte
+150277 PA Curionópolis
+150280 PA Curralinho
+150285 PA Curuá
+150290 PA Curuçá
+150293 PA Dom Eliseu
+150295 PA Eldorado dos Carajás
+150300 PA Faro
+150304 PA Floresta do Araguaia
+150307 PA Garrafão do Norte
+150309 PA Goianésia do Pará
+150310 PA Gurupá
+150320 PA Igarapé-Açu
+150330 PA Igarapé-Miri
+150340 PA Inhangapi
+150345 PA Ipixuna do Pará
+150350 PA Irituia
+150360 PA Itaituba
+150370 PA Itupiranga
+150375 PA Jacareacanga
+150380 PA Jacundá
+150390 PA Juruti
+150400 PA Limoeiro do Ajuru
+150405 PA Mãe do Rio
+150410 PA Magalhães Barata
+150420 PA Marabá
+150430 PA Maracanã
+150440 PA Marapanim
+150442 PA Marituba
+150445 PA Medicilândia
+150450 PA Melgaço
+150460 PA Mocajuba
+150470 PA Moju
+150480 PA Monte Alegre
+150490 PA Muaná
+150495 PA Nova Esperança do Piriá
+150497 PA Nova Ipixuna
+150500 PA Nova Timboteua
+150503 PA Novo Progresso
+150506 PA Novo Repartimento
+150510 PA Óbidos
+150520 PA Oeiras do Pará
+150530 PA Oriximiná
+150540 PA Ourém
+150543 PA Ourilândia do Norte
+150548 PA Pacajá
+150549 PA Palestina do Pará
+150550 PA Paragominas
+150553 PA Parauapebas
+150555 PA Pau d`Arco
+150560 PA Peixe-Boi
+150563 PA Piçarra
+150565 PA Placas
+150570 PA Ponta de Pedras
+150580 PA Portel
+150590 PA Porto de Moz
+150600 PA Prainha
+150610 PA Primavera
+150611 PA Quatipuru
+150613 PA Redenção
+150616 PA Rio Maria
+150618 PA Rondon do Pará
+150619 PA Rurópolis
+150620 PA Salinópolis
+150630 PA Salvaterra
+150635 PA Santa Bárbara do Pará
+150640 PA Santa Cruz do Arari
+150650 PA Santa Isabel do Pará
+150655 PA Santa Luzia do Pará
+150658 PA Santa Maria das Barreiras
+150660 PA Santa Maria do Pará
+150670 PA Santana do Araguaia
+150680 PA Santarém
+150690 PA Santarém Novo
+150700 PA Santo Antônio do Tauá
+150710 PA São Caetano de Odivelas
+150715 PA São Domingos do Araguaia
+150720 PA São Domingos do Capim
+150730 PA São Félix do Xingu
+150740 PA São Francisco do Pará
+150745 PA São Geraldo do Araguaia
+150746 PA São João da Ponta
+150747 PA São João de Pirabas
+150750 PA São João do Araguaia
+150760 PA São Miguel do Guamá
+150770 PA São Sebastião da Boa Vista
+150775 PA Sapucaia
+150780 PA Senador José Porfírio
+150790 PA Soure
+150795 PA Tailândia
+150796 PA Terra Alta
+150797 PA Terra Santa
+150800 PA Tomé-Açu
+150803 PA Tracuateua
+150805 PA Trairão
+150808 PA Tucumã
+150810 PA Tucuruí
+150812 PA Ulianópolis
+150815 PA Uruará
+150820 PA Vigia
+150830 PA Viseu
+150835 PA Vitória do Xingu
+150840 PA Xinguara
+160005 AP Serra do Navio
+160010 AP Amapá
+160015 AP Pedra Branca do Amaparí
+160020 AP Calçoene
+160021 AP Cutias
+160023 AP Ferreira Gomes
+160025 AP Itaubal
+160027 AP Laranjal do Jari
+160030 AP Macapá
+160040 AP Mazagão
+160050 AP Oiapoque
+160053 AP Porto Grande
+160055 AP Pracuúba
+160060 AP Santana
+160070 AP Tartarugalzinho
+160080 AP Vitória do Jari
+170025 TO Abreulândia
+170030 TO Aguiarnópolis
+170035 TO Aliança do Tocantins
+170040 TO Almas
+170070 TO Alvorada
+170100 TO Ananás
+170105 TO Angico
+170110 TO Aparecida do Rio Negro
+170130 TO Aragominas
+170190 TO Araguacema
+170200 TO Araguaçu
+170210 TO Araguaína
+170215 TO Araguanã
+170220 TO Araguatins
+170230 TO Arapoema
+170240 TO Arraias
+170255 TO Augustinópolis
+170270 TO Aurora do Tocantins
+170290 TO Axixá do Tocantins
+170300 TO Babaçulândia
+170305 TO Bandeirantes do Tocantins
+170307 TO Barra do Ouro
+170310 TO Barrolândia
+170320 TO Bernardo Sayão
+170330 TO Bom Jesus do Tocantins
+170360 TO Brasilândia do Tocantins
+170370 TO Brejinho de Nazaré
+170380 TO Buriti do Tocantins
+170382 TO Cachoeirinha
+170384 TO Campos Lindos
+170386 TO Cariri do Tocantins
+170388 TO Carmolândia
+170389 TO Carrasco Bonito
+170390 TO Caseara
+170410 TO Centenário
+170460 TO Chapada de Areia
+170510 TO Chapada da Natividade
+170550 TO Colinas do Tocantins
+170555 TO Combinado
+170560 TO Conceição do Tocantins
+170600 TO Couto Magalhães
+170610 TO Cristalândia
+170625 TO Crixás do Tocantins
+170650 TO Darcinópolis
+170700 TO Dianópolis
+170710 TO Divinópolis do Tocantins
+170720 TO Dois Irmãos do Tocantins
+170730 TO Dueré
+170740 TO Esperantina
+170755 TO Fátima
+170765 TO Figueirópolis
+170770 TO Filadélfia
+170820 TO Formoso do Araguaia
+170825 TO Fortaleza do Tabocão
+170830 TO Goianorte
+170900 TO Goiatins
+170930 TO Guaraí
+170950 TO Gurupi
+170980 TO Ipueiras
+171050 TO Itacajá
+171070 TO Itaguatins
+171090 TO Itapiratins
+171110 TO Itaporã do Tocantins
+171150 TO Jaú do Tocantins
+171180 TO Juarina
+171190 TO Lagoa da Confusão
+171195 TO Lagoa do Tocantins
+171200 TO Lajeado
+171215 TO Lavandeira
+171240 TO Lizarda
+171245 TO Luzinópolis
+171250 TO Marianópolis do Tocantins
+171270 TO Mateiros
+171280 TO Maurilândia do Tocantins
+171320 TO Miracema do Tocantins
+171330 TO Miranorte
+171360 TO Monte do Carmo
+171370 TO Monte Santo do Tocantins
+171380 TO Palmeiras do Tocantins
+171395 TO Muricilândia
+171420 TO Natividade
+171430 TO Nazaré
+171488 TO Nova Olinda
+171500 TO Nova Rosalândia
+171510 TO Novo Acordo
+171515 TO Novo Alegre
+171525 TO Novo Jardim
+171550 TO Oliveira de Fátima
+171570 TO Palmeirante
+171575 TO Palmeirópolis
+171610 TO Paraíso do Tocantins
+171620 TO Paranã
+171630 TO Pau d`Arco
+171650 TO Pedro Afonso
+171660 TO Peixe
+171665 TO Pequizeiro
+171670 TO Colméia
+171700 TO Pindorama do Tocantins
+171720 TO Piraquê
+171750 TO Pium
+171780 TO Ponte Alta do Bom Jesus
+171790 TO Ponte Alta do Tocantins
+171800 TO Porto Alegre do Tocantins
+171820 TO Porto Nacional
+171830 TO Praia Norte
+171840 TO Presidente Kennedy
+171845 TO Pugmil
+171850 TO Recursolândia
+171855 TO Riachinho
+171865 TO Rio da Conceição
+171870 TO Rio dos Bois
+171875 TO Rio Sono
+171880 TO Sampaio
+171884 TO Sandolândia
+171886 TO Santa Fé do Araguaia
+171888 TO Santa Maria do Tocantins
+171889 TO Santa Rita do Tocantins
+171890 TO Santa Rosa do Tocantins
+171900 TO Santa Tereza do Tocantins
+172000 TO Santa Terezinha do Tocantins
+172010 TO São Bento do Tocantins
+172015 TO São Félix do Tocantins
+172020 TO São Miguel do Tocantins
+172025 TO São Salvador do Tocantins
+172030 TO São Sebastião do Tocantins
+172049 TO São Valério
+172065 TO Silvanópolis
+172080 TO Sítio Novo do Tocantins
+172085 TO Sucupira
+172090 TO Taguatinga
+172093 TO Taipas do Tocantins
+172097 TO Talismã
+172100 TO Palmas
+172110 TO Tocantínia
+172120 TO Tocantinópolis
+172125 TO Tupirama
+172130 TO Tupiratins
+172208 TO Wanderlândia
+172210 TO Xambioá
+210005 MA Açailândia
+210010 MA Afonso Cunha
+210015 MA Água Doce do Maranhão
+210020 MA Alcântara
+210030 MA Aldeias Altas
+210040 MA Altamira do Maranhão
+210043 MA Alto Alegre do Maranhão
+210047 MA Alto Alegre do Pindaré
+210050 MA Alto Parnaíba
+210055 MA Amapá do Maranhão
+210060 MA Amarante do Maranhão
+210070 MA Anajatuba
+210080 MA Anapurus
+210083 MA Apicum-Açu
+210087 MA Araguanã
+210090 MA Araioses
+210095 MA Arame
+210100 MA Arari
+210110 MA Axixá
+210120 MA Bacabal
+210125 MA Bacabeira
+210130 MA Bacuri
+210135 MA Bacurituba
+210140 MA Balsas
+210150 MA Barão de Grajaú
+210160 MA Barra do Corda
+210170 MA Barreirinhas
+210173 MA Belágua
+210177 MA Bela Vista do Maranhão
+210180 MA Benedito Leite
+210190 MA Bequimão
+210193 MA Bernardo do Mearim
+210197 MA Boa Vista do Gurupi
+210200 MA Bom Jardim
+210203 MA Bom Jesus das Selvas
+210207 MA Bom Lugar
+210210 MA Brejo
+210215 MA Brejo de Areia
+210220 MA Buriti
+210230 MA Buriti Bravo
+210232 MA Buriticupu
+210235 MA Buritirana
+210237 MA Cachoeira Grande
+210240 MA Cajapió
+210250 MA Cajari
+210255 MA Campestre do Maranhão
+210260 MA Cândido Mendes
+210270 MA Cantanhede
+210275 MA Capinzal do Norte
+210280 MA Carolina
+210290 MA Carutapera
+210300 MA Caxias
+210310 MA Cedral
+210312 MA Central do Maranhão
+210315 MA Centro do Guilherme
+210317 MA Centro Novo do Maranhão
+210320 MA Chapadinha
+210325 MA Cidelândia
+210330 MA Codó
+210340 MA Coelho Neto
+210350 MA Colinas
+210355 MA Conceição do Lago-Açu
+210360 MA Coroatá
+210370 MA Cururupu
+210375 MA Davinópolis
+210380 MA Dom Pedro
+210390 MA Duque Bacelar
+210400 MA Esperantinópolis
+210405 MA Estreito
+210407 MA Feira Nova do Maranhão
+210408 MA Fernando Falcão
+210409 MA Formosa da Serra Negra
+210410 MA Fortaleza dos Nogueiras
+210420 MA Fortuna
+210430 MA Godofredo Viana
+210440 MA Gonçalves Dias
+210450 MA Governador Archer
+210455 MA Governador Edison Lobão
+210460 MA Governador Eugênio Barros
+210462 MA Governador Luiz Rocha
+210465 MA Governador Newton Bello
+210467 MA Governador Nunes Freire
+210470 MA Graça Aranha
+210480 MA Grajaú
+210490 MA Guimarães
+210500 MA Humberto de Campos
+210510 MA Icatu
+210515 MA Igarapé do Meio
+210520 MA Igarapé Grande
+210530 MA Imperatriz
+210535 MA Itaipava do Grajaú
+210540 MA Itapecuru Mirim
+210542 MA Itinga do Maranhão
+210545 MA Jatobá
+210547 MA Jenipapo dos Vieiras
+210550 MA João Lisboa
+210560 MA Joselândia
+210565 MA Junco do Maranhão
+210570 MA Lago da Pedra
+210580 MA Lago do Junco
+210590 MA Lago Verde
+210592 MA Lagoa do Mato
+210594 MA Lago dos Rodrigues
+210596 MA Lagoa Grande do Maranhão
+210598 MA Lajeado Novo
+210600 MA Lima Campos
+210610 MA Loreto
+210620 MA Luís Domingues
+210630 MA Magalhães de Almeida
+210632 MA Maracaçumé
+210635 MA Marajá do Sena
+210637 MA Maranhãozinho
+210640 MA Mata Roma
+210650 MA Matinha
+210660 MA Matões
+210663 MA Matões do Norte
+210667 MA Milagres do Maranhão
+210670 MA Mirador
+210675 MA Miranda do Norte
+210680 MA Mirinzal
+210690 MA Monção
+210700 MA Montes Altos
+210710 MA Morros
+210720 MA Nina Rodrigues
+210725 MA Nova Colinas
+210730 MA Nova Iorque
+210735 MA Nova Olinda do Maranhão
+210740 MA Olho d`Água das Cunhãs
+210745 MA Olinda Nova do Maranhão
+210750 MA Paço do Lumiar
+210760 MA Palmeirândia
+210770 MA Paraibano
+210780 MA Parnarama
+210790 MA Passagem Franca
+210800 MA Pastos Bons
+210805 MA Paulino Neves
+210810 MA Paulo Ramos
+210820 MA Pedreiras
+210825 MA Pedro do Rosário
+210830 MA Penalva
+210840 MA Peri Mirim
+210845 MA Peritoró
+210850 MA Pindaré-Mirim
+210860 MA Pinheiro
+210870 MA Pio XII
+210880 MA Pirapemas
+210890 MA Poção de Pedras
+210900 MA Porto Franco
+210905 MA Porto Rico do Maranhão
+210910 MA Presidente Dutra
+210920 MA Presidente Juscelino
+210923 MA Presidente Médici
+210927 MA Presidente Sarney
+210930 MA Presidente Vargas
+210940 MA Primeira Cruz
+210945 MA Raposa
+210950 MA Riachão
+210955 MA Ribamar Fiquene
+210960 MA Rosário
+210970 MA Sambaíba
+210975 MA Santa Filomena do Maranhão
+210980 MA Santa Helena
+210990 MA Santa Inês
+211000 MA Santa Luzia
+211003 MA Santa Luzia do Paruá
+211010 MA Santa Quitéria do Maranhão
+211020 MA Santa Rita
+211023 MA Santana do Maranhão
+211027 MA Santo Amaro do Maranhão
+211030 MA Santo Antônio dos Lopes
+211040 MA São Benedito do Rio Preto
+211050 MA São Bento
+211060 MA São Bernardo
+211065 MA São Domingos do Azeitão
+211070 MA São Domingos do Maranhão
+211080 MA São Félix de Balsas
+211085 MA São Francisco do Brejão
+211090 MA São Francisco do Maranhão
+211100 MA São João Batista
+211102 MA São João do Carú
+211105 MA São João do Paraíso
+211107 MA São João do Soter
+211110 MA São João dos Patos
+211120 MA São José de Ribamar
+211125 MA São José dos Basílios
+211130 MA São Luís
+211140 MA São Luís Gonzaga do Maranhão
+211150 MA São Mateus do Maranhão
+211153 MA São Pedro da Água Branca
+211157 MA São Pedro dos Crentes
+211160 MA São Raimundo das Mangabeiras
+211163 MA São Raimundo do Doca Bezerra
+211167 MA São Roberto
+211170 MA São Vicente Ferrer
+211172 MA Satubinha
+211174 MA Senador Alexandre Costa
+211176 MA Senador La Rocque
+211178 MA Serrano do Maranhão
+211180 MA Sítio Novo
+211190 MA Sucupira do Norte
+211195 MA Sucupira do Riachão
+211200 MA Tasso Fragoso
+211210 MA Timbiras
+211220 MA Timon
+211223 MA Trizidela do Vale
+211227 MA Tufilândia
+211230 MA Tuntum
+211240 MA Turiaçu
+211245 MA Turilândia
+211250 MA Tutóia
+211260 MA Urbano Santos
+211270 MA Vargem Grande
+211280 MA Viana
+211285 MA Vila Nova dos Martírios
+211290 MA Vitória do Mearim
+211300 MA Vitorino Freire
+211400 MA Zé Doca
+220005 PI Acauã
+220010 PI Agricolândia
+220020 PI Água Branca
+220025 PI Alagoinha do Piauí
+220027 PI Alegrete do Piauí
+220030 PI Alto Longá
+220040 PI Altos
+220045 PI Alvorada do Gurguéia
+220050 PI Amarante
+220060 PI Angical do Piauí
+220070 PI Anísio de Abreu
+220080 PI Antônio Almeida
+220090 PI Aroazes
+220100 PI Arraial
+220105 PI Assunção do Piauí
+220110 PI Avelino Lopes
+220115 PI Baixa Grande do Ribeiro
+220117 PI Barra d`Alcântara
+220120 PI Barras
+220130 PI Barreiras do Piauí
+220140 PI Barro Duro
+220150 PI Batalha
+220155 PI Bela Vista do Piauí
+220157 PI Belém do Piauí
+220160 PI Beneditinos
+220170 PI Bertolínia
+220173 PI Betânia do Piauí
+220177 PI Boa Hora
+220180 PI Bocaina
+220190 PI Bom Jesus
+220191 PI Bom Princípio do Piauí
+220192 PI Bonfim do Piauí
+220194 PI Boqueirão do Piauí
+220196 PI Brasileira
+220198 PI Brejo do Piauí
+220200 PI Buriti dos Lopes
+220202 PI Buriti dos Montes
+220205 PI Cabeceiras do Piauí
+220207 PI Cajazeiras do Piauí
+220208 PI Cajueiro da Praia
+220209 PI Caldeirão Grande do Piauí
+220210 PI Campinas do Piauí
+220211 PI Campo Alegre do Fidalgo
+220213 PI Campo Grande do Piauí
+220217 PI Campo Largo do Piauí
+220220 PI Campo Maior
+220225 PI Canavieira
+220230 PI Canto do Buriti
+220240 PI Capitão de Campos
+220245 PI Capitão Gervásio Oliveira
+220250 PI Caracol
+220253 PI Caraúbas do Piauí
+220255 PI Caridade do Piauí
+220260 PI Castelo do Piauí
+220265 PI Caxingó
+220270 PI Cocal
+220271 PI Cocal de Telha
+220272 PI Cocal dos Alves
+220273 PI Coivaras
+220275 PI Colônia do Gurguéia
+220277 PI Colônia do Piauí
+220280 PI Conceição do Canindé
+220285 PI Coronel José Dias
+220290 PI Corrente
+220300 PI Cristalândia do Piauí
+220310 PI Cristino Castro
+220320 PI Curimatá
+220323 PI Currais
+220325 PI Curralinhos
+220327 PI Curral Novo do Piauí
+220330 PI Demerval Lobão
+220335 PI Dirceu Arcoverde
+220340 PI Dom Expedito Lopes
+220342 PI Domingos Mourão
+220345 PI Dom Inocêncio
+220350 PI Elesbão Veloso
+220360 PI Eliseu Martins
+220370 PI Esperantina
+220375 PI Fartura do Piauí
+220380 PI Flores do Piauí
+220385 PI Floresta do Piauí
+220390 PI Floriano
+220400 PI Francinópolis
+220410 PI Francisco Ayres
+220415 PI Francisco Macedo
+220420 PI Francisco Santos
+220430 PI Fronteiras
+220435 PI Geminiano
+220440 PI Gilbués
+220450 PI Guadalupe
+220455 PI Guaribas
+220460 PI Hugo Napoleão
+220465 PI Ilha Grande
+220470 PI Inhuma
+220480 PI Ipiranga do Piauí
+220490 PI Isaías Coelho
+220500 PI Itainópolis
+220510 PI Itaueira
+220515 PI Jacobina do Piauí
+220520 PI Jaicós
+220525 PI Jardim do Mulato
+220527 PI Jatobá do Piauí
+220530 PI Jerumenha
+220535 PI João Costa
+220540 PI Joaquim Pires
+220545 PI Joca Marques
+220550 PI José de Freitas
+220551 PI Juazeiro do Piauí
+220552 PI Júlio Borges
+220553 PI Jurema
+220554 PI Lagoinha do Piauí
+220555 PI Lagoa Alegre
+220556 PI Lagoa do Barro do Piauí
+220557 PI Lagoa de São Francisco
+220558 PI Lagoa do Piauí
+220559 PI Lagoa do Sítio
+220560 PI Landri Sales
+220570 PI Luís Correia
+220580 PI Luzilândia
+220585 PI Madeiro
+220590 PI Manoel Emídio
+220595 PI Marcolândia
+220600 PI Marcos Parente
+220605 PI Massapê do Piauí
+220610 PI Matias Olímpio
+220620 PI Miguel Alves
+220630 PI Miguel Leão
+220635 PI Milton Brandão
+220640 PI Monsenhor Gil
+220650 PI Monsenhor Hipólito
+220660 PI Monte Alegre do Piauí
+220665 PI Morro Cabeça no Tempo
+220667 PI Morro do Chapéu do Piauí
+220669 PI Murici dos Portelas
+220670 PI Nazaré do Piauí
+220675 PI Nossa Senhora de Nazaré
+220680 PI Nossa Senhora dos Remédios
+220690 PI Novo Oriente do Piauí
+220695 PI Novo Santo Antônio
+220700 PI Oeiras
+220710 PI Olho d`Água do Piauí
+220720 PI Padre Marcos
+220730 PI Paes Landim
+220735 PI Pajeú do Piauí
+220740 PI Palmeira do Piauí
+220750 PI Palmeirais
+220755 PI Paquetá
+220760 PI Parnaguá
+220770 PI Parnaíba
+220775 PI Passagem Franca do Piauí
+220777 PI Patos do Piauí
+220779 PI Pau d`Arco do Piauí
+220780 PI Paulistana
+220785 PI Pavussu
+220790 PI Pedro II
+220793 PI Pedro Laurentino
+220795 PI Nova Santa Rita
+220800 PI Picos
+220810 PI Pimenteiras
+220820 PI Pio IX
+220830 PI Piracuruca
+220840 PI Piripiri
+220850 PI Porto
+220855 PI Porto Alegre do Piauí
+220860 PI Prata do Piauí
+220865 PI Queimada Nova
+220870 PI Redenção do Gurguéia
+220880 PI Regeneração
+220885 PI Riacho Frio
+220887 PI Ribeira do Piauí
+220890 PI Ribeiro Gonçalves
+220900 PI Rio Grande do Piauí
+220910 PI Santa Cruz do Piauí
+220915 PI Santa Cruz dos Milagres
+220920 PI Santa Filomena
+220930 PI Santa Luz
+220935 PI Santana do Piauí
+220937 PI Santa Rosa do Piauí
+220940 PI Santo Antônio de Lisboa
+220945 PI Santo Antônio dos Milagres
+220950 PI Santo Inácio do Piauí
+220955 PI São Braz do Piauí
+220960 PI São Félix do Piauí
+220965 PI São Francisco de Assis do  Piauí
+220970 PI São Francisco do Piauí
+220975 PI São Gonçalo do Gurguéia
+220980 PI São Gonçalo do Piauí
+220985 PI São João da Canabrava
+220987 PI São João da Fronteira
+220990 PI São João da Serra
+220995 PI São João da Varjota
+220997 PI São João do Arraial
+221000 PI São João do Piauí
+221005 PI São José do Divino
+221010 PI São José do Peixe
+221020 PI São José do Piauí
+221030 PI São Julião
+221035 PI São Lourenço do Piauí
+221037 PI São Luis do Piauí
+221038 PI São Miguel da Baixa Grande
+221039 PI São Miguel do Fidalgo
+221040 PI São Miguel do Tapuio
+221050 PI São Pedro do Piauí
+221060 PI São Raimundo Nonato
+221062 PI Sebastião Barros
+221063 PI Sebastião Leal
+221065 PI Sigefredo Pacheco
+221070 PI Simões
+221080 PI Simplício Mendes
+221090 PI Socorro do Piauí
+221093 PI Sussuapara
+221095 PI Tamboril do Piauí
+221097 PI Tanque do Piauí
+221100 PI Teresina
+221110 PI União
+221120 PI Uruçuí
+221130 PI Valença do Piauí
+221135 PI Várzea Branca
+221140 PI Várzea Grande
+221150 PI Vera Mendes
+221160 PI Vila Nova do Piauí
+221170 PI Wall Ferraz
+230010 CE Abaiara
+230015 CE Acarape
+230020 CE Acaraú
+230030 CE Acopiara
+230040 CE Aiuaba
+230050 CE Alcântaras
+230060 CE Altaneira
+230070 CE Alto Santo
+230075 CE Amontada
+230080 CE Antonina do Norte
+230090 CE Apuiarés
+230100 CE Aquiraz
+230110 CE Aracati
+230120 CE Aracoiaba
+230125 CE Ararendá
+230130 CE Araripe
+230140 CE Aratuba
+230150 CE Arneiroz
+230160 CE Assaré
+230170 CE Aurora
+230180 CE Baixio
+230185 CE Banabuiú
+230190 CE Barbalha
+230195 CE Barreira
+230200 CE Barro
+230205 CE Barroquinha
+230210 CE Baturité
+230220 CE Beberibe
+230230 CE Bela Cruz
+230240 CE Boa Viagem
+230250 CE Brejo Santo
+230260 CE Camocim
+230270 CE Campos Sales
+230280 CE Canindé
+230290 CE Capistrano
+230300 CE Caridade
+230310 CE Cariré
+230320 CE Caririaçu
+230330 CE Cariús
+230340 CE Carnaubal
+230350 CE Cascavel
+230360 CE Catarina
+230365 CE Catunda
+230370 CE Caucaia
+230380 CE Cedro
+230390 CE Chaval
+230393 CE Choró
+230395 CE Chorozinho
+230400 CE Coreaú
+230410 CE Crateús
+230420 CE Crato
+230423 CE Croatá
+230425 CE Cruz
+230426 CE Deputado Irapuan Pinheiro
+230427 CE Ererê
+230428 CE Eusébio
+230430 CE Farias Brito
+230435 CE Forquilha
+230440 CE Fortaleza
+230445 CE Fortim
+230450 CE Frecheirinha
+230460 CE General Sampaio
+230465 CE Graça
+230470 CE Granja
+230480 CE Granjeiro
+230490 CE Groaíras
+230495 CE Guaiúba
+230500 CE Guaraciaba do Norte
+230510 CE Guaramiranga
+230520 CE Hidrolândia
+230523 CE Horizonte
+230526 CE Ibaretama
+230530 CE Ibiapina
+230533 CE Ibicuitinga
+230535 CE Icapuí
+230540 CE Icó
+230550 CE Iguatu
+230560 CE Independência
+230565 CE Ipaporanga
+230570 CE Ipaumirim
+230580 CE Ipu
+230590 CE Ipueiras
+230600 CE Iracema
+230610 CE Irauçuba
+230620 CE Itaiçaba
+230625 CE Itaitinga
+230630 CE Itapagé
+230640 CE Itapipoca
+230650 CE Itapiúna
+230655 CE Itarema
+230660 CE Itatira
+230670 CE Jaguaretama
+230680 CE Jaguaribara
+230690 CE Jaguaribe
+230700 CE Jaguaruana
+230710 CE Jardim
+230720 CE Jati
+230725 CE Jijoca de Jericoacoara
+230730 CE Juazeiro do Norte
+230740 CE Jucás
+230750 CE Lavras da Mangabeira
+230760 CE Limoeiro do Norte
+230763 CE Madalena
+230765 CE Maracanaú
+230770 CE Maranguape
+230780 CE Marco
+230790 CE Martinópole
+230800 CE Massapê
+230810 CE Mauriti
+230820 CE Meruoca
+230830 CE Milagres
+230835 CE Milhã
+230837 CE Miraíma
+230840 CE Missão Velha
+230850 CE Mombaça
+230860 CE Monsenhor Tabosa
+230870 CE Morada Nova
+230880 CE Moraújo
+230890 CE Morrinhos
+230900 CE Mucambo
+230910 CE Mulungu
+230920 CE Nova Olinda
+230930 CE Nova Russas
+230940 CE Novo Oriente
+230945 CE Ocara
+230950 CE Orós
+230960 CE Pacajus
+230970 CE Pacatuba
+230980 CE Pacoti
+230990 CE Pacujá
+231000 CE Palhano
+231010 CE Palmácia
+231020 CE Paracuru
+231025 CE Paraipaba
+231030 CE Parambu
+231040 CE Paramoti
+231050 CE Pedra Branca
+231060 CE Penaforte
+231070 CE Pentecoste
+231080 CE Pereiro
+231085 CE Pindoretama
+231090 CE Piquet Carneiro
+231095 CE Pires Ferreira
+231100 CE Poranga
+231110 CE Porteiras
+231120 CE Potengi
+231123 CE Potiretama
+231126 CE Quiterianópolis
+231130 CE Quixadá
+231135 CE Quixelô
+231140 CE Quixeramobim
+231150 CE Quixeré
+231160 CE Redenção
+231170 CE Reriutaba
+231180 CE Russas
+231190 CE Saboeiro
+231195 CE Salitre
+231200 CE Santana do Acaraú
+231210 CE Santana do Cariri
+231220 CE Santa Quitéria
+231230 CE São Benedito
+231240 CE São Gonçalo do Amarante
+231250 CE São João do Jaguaribe
+231260 CE São Luís do Curu
+231270 CE Senador Pompeu
+231280 CE Senador Sá
+231290 CE Sobral
+231300 CE Solonópole
+231310 CE Tabuleiro do Norte
+231320 CE Tamboril
+231325 CE Tarrafas
+231330 CE Tauá
+231335 CE Tejuçuoca
+231340 CE Tianguá
+231350 CE Trairi
+231355 CE Tururu
+231360 CE Ubajara
+231370 CE Umari
+231375 CE Umirim
+231380 CE Uruburetama
+231390 CE Uruoca
+231395 CE Varjota
+231400 CE Várzea Alegre
+231410 CE Viçosa do Ceará
+240010 RN Acari
+240020 RN Açu
+240030 RN Afonso Bezerra
+240040 RN Água Nova
+240050 RN Alexandria
+240060 RN Almino Afonso
+240070 RN Alto do Rodrigues
+240080 RN Angicos
+240090 RN Antônio Martins
+240100 RN Apodi
+240110 RN Areia Branca
+240120 RN Arês
+240130 RN Augusto Severo
+240140 RN Baía Formosa
+240145 RN Baraúna
+240150 RN Barcelona
+240160 RN Bento Fernandes
+240165 RN Bodó
+240170 RN Bom Jesus
+240180 RN Brejinho
+240185 RN Caiçara do Norte
+240190 RN Caiçara do Rio do Vento
+240200 RN Caicó
+240210 RN Campo Redondo
+240220 RN Canguaretama
+240230 RN Caraúbas
+240240 RN Carnaúba dos Dantas
+240250 RN Carnaubais
+240260 RN Ceará-Mirim
+240270 RN Cerro Corá
+240280 RN Coronel Ezequiel
+240290 RN Coronel João Pessoa
+240300 RN Cruzeta
+240310 RN Currais Novos
+240320 RN Doutor Severiano
+240325 RN Parnamirim
+240330 RN Encanto
+240340 RN Equador
+240350 RN Espírito Santo
+240360 RN Extremoz
+240370 RN Felipe Guerra
+240375 RN Fernando Pedroza
+240380 RN Florânia
+240390 RN Francisco Dantas
+240400 RN Frutuoso Gomes
+240410 RN Galinhos
+240420 RN Goianinha
+240430 RN Governador Dix-Sept Rosado
+240440 RN Grossos
+240450 RN Guamaré
+240460 RN Ielmo Marinho
+240470 RN Ipanguaçu
+240480 RN Ipueira
+240485 RN Itajá
+240490 RN Itaú
+240500 RN Jaçanã
+240510 RN Jandaíra
+240520 RN Janduís
+240530 RN Januário Cicco
+240540 RN Japi
+240550 RN Jardim de Angicos
+240560 RN Jardim de Piranhas
+240570 RN Jardim do Seridó
+240580 RN João Câmara
+240590 RN João Dias
+240600 RN José da Penha
+240610 RN Jucurutu
+240615 RN Jundiá
+240620 RN Lagoa d`Anta
+240630 RN Lagoa de Pedras
+240640 RN Lagoa de Velhos
+240650 RN Lagoa Nova
+240660 RN Lagoa Salgada
+240670 RN Lajes
+240680 RN Lajes Pintadas
+240690 RN Lucrécia
+240700 RN Luís Gomes
+240710 RN Macaíba
+240720 RN Macau
+240725 RN Major Sales
+240730 RN Marcelino Vieira
+240740 RN Martins
+240750 RN Maxaranguape
+240760 RN Messias Targino
+240770 RN Montanhas
+240780 RN Monte Alegre
+240790 RN Monte das Gameleiras
+240800 RN Mossoró
+240810 RN Natal
+240820 RN Nísia Floresta
+240830 RN Nova Cruz
+240840 RN Olho-d`Água do Borges
+240850 RN Ouro Branco
+240860 RN Paraná
+240870 RN Paraú
+240880 RN Parazinho
+240890 RN Parelhas
+240895 RN Rio do Fogo
+240910 RN Passa e Fica
+240920 RN Passagem
+240930 RN Patu
+240933 RN Santa Maria
+240940 RN Pau dos Ferros
+240950 RN Pedra Grande
+240960 RN Pedra Preta
+240970 RN Pedro Avelino
+240980 RN Pedro Velho
+240990 RN Pendências
+241000 RN Pilões
+241010 RN Poço Branco
+241020 RN Portalegre
+241025 RN Porto do Mangue
+241030 RN Presidente Juscelino
+241040 RN Pureza
+241050 RN Rafael Fernandes
+241060 RN Rafael Godeiro
+241070 RN Riacho da Cruz
+241080 RN Riacho de Santana
+241090 RN Riachuelo
+241100 RN Rodolfo Fernandes
+241105 RN Tibau
+241110 RN Ruy Barbosa
+241120 RN Santa Cruz
+241140 RN Santana do Matos
+241142 RN Santana do Seridó
+241150 RN Santo Antônio
+241160 RN São Bento do Norte
+241170 RN São Bento do Trairí
+241180 RN São Fernando
+241190 RN São Francisco do Oeste
+241200 RN São Gonçalo do Amarante
+241210 RN São João do Sabugi
+241220 RN São José de Mipibu
+241230 RN São José do Campestre
+241240 RN São José do Seridó
+241250 RN São Miguel
+241255 RN São Miguel do Gostoso
+241260 RN São Paulo do Potengi
+241270 RN São Pedro
+241280 RN São Rafael
+241290 RN São Tomé
+241300 RN São Vicente
+241310 RN Senador Elói de Souza
+241320 RN Senador Georgino Avelino
+241330 RN Serra de São Bento
+241335 RN Serra do Mel
+241340 RN Serra Negra do Norte
+241350 RN Serrinha
+241355 RN Serrinha dos Pintos
+241360 RN Severiano Melo
+241370 RN Sítio Novo
+241380 RN Taboleiro Grande
+241390 RN Taipu
+241400 RN Tangará
+241410 RN Tenente Ananias
+241415 RN Tenente Laurentino Cruz
+241420 RN Tibau do Sul
+241430 RN Timbaúba dos Batistas
+241440 RN Touros
+241445 RN Triunfo Potiguar
+241450 RN Umarizal
+241460 RN Upanema
+241470 RN Várzea
+241475 RN Venha-Ver
+241480 RN Vera Cruz
+241490 RN Viçosa
+241500 RN Vila Flor
+250010 PB Água Branca
+250020 PB Aguiar
+250030 PB Alagoa Grande
+250040 PB Alagoa Nova
+250050 PB Alagoinha
+250053 PB Alcantil
+250057 PB Algodão de Jandaíra
+250060 PB Alhandra
+250070 PB São João do Rio do Peixe
+250073 PB Amparo
+250077 PB Aparecida
+250080 PB Araçagi
+250090 PB Arara
+250100 PB Araruna
+250110 PB Areia
+250115 PB Areia de Baraúnas
+250120 PB Areial
+250130 PB Aroeiras
+250135 PB Assunção
+250140 PB Baía da Traição
+250150 PB Bananeiras
+250153 PB Baraúna
+250157 PB Barra de Santana
+250160 PB Barra de Santa Rosa
+250170 PB Barra de São Miguel
+250180 PB Bayeux
+250190 PB Belém
+250200 PB Belém do Brejo do Cruz
+250205 PB Bernardino Batista
+250210 PB Boa Ventura
+250215 PB Boa Vista
+250220 PB Bom Jesus
+250230 PB Bom Sucesso
+250240 PB Bonito de Santa Fé
+250250 PB Boqueirão
+250260 PB Igaracy
+250270 PB Borborema
+250280 PB Brejo do Cruz
+250290 PB Brejo dos Santos
+250300 PB Caaporã
+250310 PB Cabaceiras
+250320 PB Cabedelo
+250330 PB Cachoeira dos Índios
+250340 PB Cacimba de Areia
+250350 PB Cacimba de Dentro
+250355 PB Cacimbas
+250360 PB Caiçara
+250370 PB Cajazeiras
+250375 PB Cajazeirinhas
+250380 PB Caldas Brandão
+250390 PB Camalaú
+250400 PB Campina Grande
+250403 PB Capim
+250407 PB Caraúbas
+250410 PB Carrapateira
+250415 PB Casserengue
+250420 PB Catingueira
+250430 PB Catolé do Rocha
+250435 PB Caturité
+250440 PB Conceição
+250450 PB Condado
+250460 PB Conde
+250470 PB Congo
+250480 PB Coremas
+250485 PB Coxixola
+250490 PB Cruz do Espírito Santo
+250500 PB Cubati
+250510 PB Cuité
+250520 PB Cuitegi
+250523 PB Cuité de Mamanguape
+250527 PB Curral de Cima
+250530 PB Curral Velho
+250535 PB Damião
+250540 PB Desterro
+250550 PB Vista Serrana
+250560 PB Diamante
+250570 PB Dona Inês
+250580 PB Duas Estradas
+250590 PB Emas
+250600 PB Esperança
+250610 PB Fagundes
+250620 PB Frei Martinho
+250625 PB Gado Bravo
+250630 PB Guarabira
+250640 PB Gurinhém
+250650 PB Gurjão
+250660 PB Ibiara
+250670 PB Imaculada
+250680 PB Ingá
+250690 PB Itabaiana
+250700 PB Itaporanga
+250710 PB Itapororoca
+250720 PB Itatuba
+250730 PB Jacaraú
+250740 PB Jericó
+250750 PB João Pessoa
+250760 PB Juarez Távora
+250770 PB Juazeirinho
+250780 PB Junco do Seridó
+250790 PB Juripiranga
+250800 PB Juru
+250810 PB Lagoa
+250820 PB Lagoa de Dentro
+250830 PB Lagoa Seca
+250840 PB Lastro
+250850 PB Livramento
+250855 PB Logradouro
+250860 PB Lucena
+250870 PB Mãe d`Água
+250880 PB Malta
+250890 PB Mamanguape
+250900 PB Manaíra
+250905 PB Marcação
+250910 PB Mari
+250915 PB Marizópolis
+250920 PB Massaranduba
+250930 PB Mataraca
+250933 PB Matinhas
+250937 PB Mato Grosso
+250939 PB Maturéia
+250940 PB Mogeiro
+250950 PB Montadas
+250960 PB Monte Horebe
+250970 PB Monteiro
+250980 PB Mulungu
+250990 PB Natuba
+251000 PB Nazarezinho
+251010 PB Nova Floresta
+251020 PB Nova Olinda
+251030 PB Nova Palmeira
+251040 PB Olho d`Água
+251050 PB Olivedos
+251060 PB Ouro Velho
+251065 PB Parari
+251070 PB Passagem
+251080 PB Patos
+251090 PB Paulista
+251100 PB Pedra Branca
+251110 PB Pedra Lavrada
+251120 PB Pedras de Fogo
+251130 PB Piancó
+251140 PB Picuí
+251150 PB Pilar
+251160 PB Pilões
+251170 PB Pilõezinhos
+251180 PB Pirpirituba
+251190 PB Pitimbu
+251200 PB Pocinhos
+251203 PB Poço Dantas
+251207 PB Poço de José de Moura
+251210 PB Pombal
+251220 PB Prata
+251230 PB Princesa Isabel
+251240 PB Puxinanã
+251250 PB Queimadas
+251260 PB Quixabá
+251270 PB Remígio
+251272 PB Pedro Régis
+251274 PB Riachão
+251275 PB Riachão do Bacamarte
+251276 PB Riachão do Poço
+251278 PB Riacho de Santo Antônio
+251280 PB Riacho dos Cavalos
+251290 PB Rio Tinto
+251300 PB Salgadinho
+251310 PB Salgado de São Félix
+251315 PB Santa Cecília
+251320 PB Santa Cruz
+251330 PB Santa Helena
+251335 PB Santa Inês
+251340 PB Santa Luzia
+251350 PB Santana de Mangueira
+251360 PB Santana dos Garrotes
+251365 PB Joca Claudino
+251370 PB Santa Rita
+251380 PB Santa Teresinha
+251385 PB Santo André
+251390 PB São Bento
+251392 PB São Bentinho
+251394 PB São Domingos do Cariri
+251396 PB São Domingos
+251398 PB São Francisco
+251400 PB São João do Cariri
+251410 PB São João do Tigre
+251420 PB São José da Lagoa Tapada
+251430 PB São José de Caiana
+251440 PB São José de Espinharas
+251445 PB São José dos Ramos
+251450 PB São José de Piranhas
+251455 PB São José de Princesa
+251460 PB São José do Bonfim
+251465 PB São José do Brejo do Cruz
+251470 PB São José do Sabugi
+251480 PB São José dos Cordeiros
+251490 PB São Mamede
+251500 PB São Miguel de Taipu
+251510 PB São Sebastião de Lagoa de  Roça
+251520 PB São Sebastião do Umbuzeiro
+251530 PB Sapé
+251540 PB Seridó
+251550 PB Serra Branca
+251560 PB Serra da Raiz
+251570 PB Serra Grande
+251580 PB Serra Redonda
+251590 PB Serraria
+251593 PB Sertãozinho
+251597 PB Sobrado
+251600 PB Solânea
+251610 PB Soledade
+251615 PB Sossêgo
+251620 PB Sousa
+251630 PB Sumé
+251640 PB Tacima
+251650 PB Taperoá
+251660 PB Tavares
+251670 PB Teixeira
+251675 PB Tenório
+251680 PB Triunfo
+251690 PB Uiraúna
+251700 PB Umbuzeiro
+251710 PB Várzea
+251720 PB Vieirópolis
+251740 PB Zabelê
+260005 PE Abreu e Lima
+260010 PE Afogados da Ingazeira
+260020 PE Afrânio
+260030 PE Agrestina
+260040 PE Água Preta
+260050 PE Águas Belas
+260060 PE Alagoinha
+260070 PE Aliança
+260080 PE Altinho
+260090 PE Amaraji
+260100 PE Angelim
+260105 PE Araçoiaba
+260110 PE Araripina
+260120 PE Arcoverde
+260130 PE Barra de Guabiraba
+260140 PE Barreiros
+260150 PE Belém de Maria
+260160 PE Belém de São Francisco
+260170 PE Belo Jardim
+260180 PE Betânia
+260190 PE Bezerros
+260200 PE Bodocó
+260210 PE Bom Conselho
+260220 PE Bom Jardim
+260230 PE Bonito
+260240 PE Brejão
+260250 PE Brejinho
+260260 PE Brejo da Madre de Deus
+260270 PE Buenos Aires
+260280 PE Buíque
+260290 PE Cabo de Santo Agostinho
+260300 PE Cabrobó
+260310 PE Cachoeirinha
+260320 PE Caetés
+260330 PE Calçado
+260340 PE Calumbi
+260345 PE Camaragibe
+260350 PE Camocim de São Félix
+260360 PE Camutanga
+260370 PE Canhotinho
+260380 PE Capoeiras
+260390 PE Carnaíba
+260392 PE Carnaubeira da Penha
+260400 PE Carpina
+260410 PE Caruaru
+260415 PE Casinhas
+260420 PE Catende
+260430 PE Cedro
+260440 PE Chã de Alegria
+260450 PE Chã Grande
+260460 PE Condado
+260470 PE Correntes
+260480 PE Cortês
+260490 PE Cumaru
+260500 PE Cupira
+260510 PE Custódia
+260515 PE Dormentes
+260520 PE Escada
+260530 PE Exu
+260540 PE Feira Nova
+260545 PE Fernando de Noronha
+260550 PE Ferreiros
+260560 PE Flores
+260570 PE Floresta
+260580 PE Frei Miguelinho
+260590 PE Gameleira
+260600 PE Garanhuns
+260610 PE Glória do Goitá
+260620 PE Goiana
+260630 PE Granito
+260640 PE Gravatá
+260650 PE Iati
+260660 PE Ibimirim
+260670 PE Ibirajuba
+260680 PE Igarassu
+260690 PE Iguaraci
+260700 PE Inajá
+260710 PE Ingazeira
+260720 PE Ipojuca
+260730 PE Ipubi
+260740 PE Itacuruba
+260750 PE Itaíba
+260760 PE Ilha de Itamaracá
+260765 PE Itambé
+260770 PE Itapetim
+260775 PE Itapissuma
+260780 PE Itaquitinga
+260790 PE Jaboatão dos Guararapes
+260795 PE Jaqueira
+260800 PE Jataúba
+260805 PE Jatobá
+260810 PE João Alfredo
+260820 PE Joaquim Nabuco
+260825 PE Jucati
+260830 PE Jupi
+260840 PE Jurema
+260845 PE Lagoa do Carro
+260850 PE Lagoa do Itaenga
+260860 PE Lagoa do Ouro
+260870 PE Lagoa dos Gatos
+260875 PE Lagoa Grande
+260880 PE Lajedo
+260890 PE Limoeiro
+260900 PE Macaparana
+260910 PE Machados
+260915 PE Manari
+260920 PE Maraial
+260930 PE Mirandiba
+260940 PE Moreno
+260950 PE Nazaré da Mata
+260960 PE Olinda
+260970 PE Orobó
+260980 PE Orocó
+260990 PE Ouricuri
+261000 PE Palmares
+261010 PE Palmeirina
+261020 PE Panelas
+261030 PE Paranatama
+261040 PE Parnamirim
+261050 PE Passira
+261060 PE Paudalho
+261070 PE Paulista
+261080 PE Pedra
+261090 PE Pesqueira
+261100 PE Petrolândia
+261110 PE Petrolina
+261120 PE Poção
+261130 PE Pombos
+261140 PE Primavera
+261150 PE Quipapá
+261153 PE Quixaba
+261160 PE Recife
+261170 PE Riacho das Almas
+261180 PE Ribeirão
+261190 PE Rio Formoso
+261200 PE Sairé
+261210 PE Salgadinho
+261220 PE Salgueiro
+261230 PE Saloá
+261240 PE Sanharó
+261245 PE Santa Cruz
+261247 PE Santa Cruz da Baixa Verde
+261250 PE Santa Cruz do Capibaribe
+261255 PE Santa Filomena
+261260 PE Santa Maria da Boa Vista
+261270 PE Santa Maria do Cambucá
+261280 PE Santa Terezinha
+261290 PE São Benedito do Sul
+261300 PE São Bento do Una
+261310 PE São Caitano
+261320 PE São João
+261330 PE São Joaquim do Monte
+261340 PE São José da Coroa Grande
+261350 PE São José do Belmonte
+261360 PE São José do Egito
+261370 PE São Lourenço da Mata
+261380 PE São Vicente Ferrer
+261390 PE Serra Talhada
+261400 PE Serrita
+261410 PE Sertânia
+261420 PE Sirinhaém
+261430 PE Moreilândia
+261440 PE Solidão
+261450 PE Surubim
+261460 PE Tabira
+261470 PE Tacaimbó
+261480 PE Tacaratu
+261485 PE Tamandaré
+261500 PE Taquaritinga do Norte
+261510 PE Terezinha
+261520 PE Terra Nova
+261530 PE Timbaúba
+261540 PE Toritama
+261550 PE Tracunhaém
+261560 PE Trindade
+261570 PE Triunfo
+261580 PE Tupanatinga
+261590 PE Tuparetama
+261600 PE Venturosa
+261610 PE Verdejante
+261618 PE Vertente do Lério
+261620 PE Vertentes
+261630 PE Vicência
+261640 PE Vitória de Santo Antão
+261650 PE Xexéu
+270010 AL Água Branca
+270020 AL Anadia
+270030 AL Arapiraca
+270040 AL Atalaia
+270050 AL Barra de Santo Antônio
+270060 AL Barra de São Miguel
+270070 AL Batalha
+270080 AL Belém
+270090 AL Belo Monte
+270100 AL Boca da Mata
+270110 AL Branquinha
+270120 AL Cacimbinhas
+270130 AL Cajueiro
+270135 AL Campestre
+270140 AL Campo Alegre
+270150 AL Campo Grande
+270160 AL Canapi
+270170 AL Capela
+270180 AL Carneiros
+270190 AL Chã Preta
+270200 AL Coité do Nóia
+270210 AL Colônia Leopoldina
+270220 AL Coqueiro Seco
+270230 AL Coruripe
+270235 AL Craíbas
+270240 AL Delmiro Gouveia
+270250 AL Dois Riachos
+270255 AL Estrela de Alagoas
+270260 AL Feira Grande
+270270 AL Feliz Deserto
+270280 AL Flexeiras
+270290 AL Girau do Ponciano
+270300 AL Ibateguara
+270310 AL Igaci
+270320 AL Igreja Nova
+270330 AL Inhapi
+270340 AL Jacaré dos Homens
+270350 AL Jacuípe
+270360 AL Japaratinga
+270370 AL Jaramataia
+270375 AL Jequiá da Praia
+270380 AL Joaquim Gomes
+270390 AL Jundiá
+270400 AL Junqueiro
+270410 AL Lagoa da Canoa
+270420 AL Limoeiro de Anadia
+270430 AL Maceió
+270440 AL Major Isidoro
+270450 AL Maragogi
+270460 AL Maravilha
+270470 AL Marechal Deodoro
+270480 AL Maribondo
+270490 AL Mar Vermelho
+270500 AL Mata Grande
+270510 AL Matriz de Camaragibe
+270520 AL Messias
+270530 AL Minador do Negrão
+270540 AL Monteirópolis
+270550 AL Murici
+270560 AL Novo Lino
+270570 AL Olho d`Água das Flores
+270580 AL Olho d`Água do Casado
+270590 AL Olho d`Água Grande
+270600 AL Olivença
+270610 AL Ouro Branco
+270620 AL Palestina
+270630 AL Palmeira dos Índios
+270640 AL Pão de Açúcar
+270642 AL Pariconha
+270644 AL Paripueira
+270650 AL Passo de Camaragibe
+270660 AL Paulo Jacinto
+270670 AL Penedo
+270680 AL Piaçabuçu
+270690 AL Pilar
+270700 AL Pindoba
+270710 AL Piranhas
+270720 AL Poço das Trincheiras
+270730 AL Porto Calvo
+270740 AL Porto de Pedras
+270750 AL Porto Real do Colégio
+270760 AL Quebrangulo
+270770 AL Rio Largo
+270780 AL Roteiro
+270790 AL Santa Luzia do Norte
+270800 AL Santana do Ipanema
+270810 AL Santana do Mundaú
+270820 AL São Brás
+270830 AL São José da Laje
+270840 AL São José da Tapera
+270850 AL São Luís do Quitunde
+270860 AL São Miguel dos Campos
+270870 AL São Miguel dos Milagres
+270880 AL São Sebastião
+270890 AL Satuba
+270895 AL Senador Rui Palmeira
+270900 AL Tanque d`Arca
+270910 AL Taquarana
+270915 AL Teotônio Vilela
+270920 AL Traipu
+270930 AL União dos Palmares
+270940 AL Viçosa
+280010 SE Amparo de São Francisco
+280020 SE Aquidabã
+280030 SE Aracaju
+280040 SE Arauá
+280050 SE Areia Branca
+280060 SE Barra dos Coqueiros
+280067 SE Boquim
+280070 SE Brejo Grande
+280100 SE Campo do Brito
+280110 SE Canhoba
+280120 SE Canindé de São Francisco
+280130 SE Capela
+280140 SE Carira
+280150 SE Carmópolis
+280160 SE Cedro de São João
+280170 SE Cristinápolis
+280190 SE Cumbe
+280200 SE Divina Pastora
+280210 SE Estância
+280220 SE Feira Nova
+280230 SE Frei Paulo
+280240 SE Gararu
+280250 SE General Maynard
+280260 SE Gracho Cardoso
+280270 SE Ilha das Flores
+280280 SE Indiaroba
+280290 SE Itabaiana
+280300 SE Itabaianinha
+280310 SE Itabi
+280320 SE Itaporanga d`Ajuda
+280330 SE Japaratuba
+280340 SE Japoatã
+280350 SE Lagarto
+280360 SE Laranjeiras
+280370 SE Macambira
+280380 SE Malhada dos Bois
+280390 SE Malhador
+280400 SE Maruim
+280410 SE Moita Bonita
+280420 SE Monte Alegre de Sergipe
+280430 SE Muribeca
+280440 SE Neópolis
+280445 SE Nossa Senhora Aparecida
+280450 SE Nossa Senhora da Glória
+280460 SE Nossa Senhora das Dores
+280470 SE Nossa Senhora de Lourdes
+280480 SE Nossa Senhora do Socorro
+280490 SE Pacatuba
+280500 SE Pedra Mole
+280510 SE Pedrinhas
+280520 SE Pinhão
+280530 SE Pirambu
+280540 SE Poço Redondo
+280550 SE Poço Verde
+280560 SE Porto da Folha
+280570 SE Propriá
+280580 SE Riachão do Dantas
+280590 SE Riachuelo
+280600 SE Ribeirópolis
+280610 SE Rosário do Catete
+280620 SE Salgado
+280630 SE Santa Luzia do Itanhy
+280640 SE Santana do São Francisco
+280650 SE Santa Rosa de Lima
+280660 SE Santo Amaro das Brotas
+280670 SE São Cristóvão
+280680 SE São Domingos
+280690 SE São Francisco
+280700 SE São Miguel do Aleixo
+280710 SE Simão Dias
+280720 SE Siriri
+280730 SE Telha
+280740 SE Tobias Barreto
+280750 SE Tomar do Geru
+280760 SE Umbaúba
+290010 BA Abaíra
+290020 BA Abaré
+290030 BA Acajutiba
+290035 BA Adustina
+290040 BA Água Fria
+290050 BA Érico Cardoso
+290060 BA Aiquara
+290070 BA Alagoinhas
+290080 BA Alcobaça
+290090 BA Almadina
+290100 BA Amargosa
+290110 BA Amélia Rodrigues
+290115 BA América Dourada
+290120 BA Anagé
+290130 BA Andaraí
+290135 BA Andorinha
+290140 BA Angical
+290150 BA Anguera
+290160 BA Antas
+290170 BA Antônio Cardoso
+290180 BA Antônio Gonçalves
+290190 BA Aporá
+290195 BA Apuarema
+290200 BA Aracatu
+290205 BA Araças
+290210 BA Araci
+290220 BA Aramari
+290225 BA Arataca
+290230 BA Aratuípe
+290240 BA Aurelino Leal
+290250 BA Baianópolis
+290260 BA Baixa Grande
+290265 BA Banzaê
+290270 BA Barra
+290280 BA Barra da Estiva
+290290 BA Barra do Choça
+290300 BA Barra do Mendes
+290310 BA Barra do Rocha
+290320 BA Barreiras
+290323 BA Barro Alto
+290327 BA Barrocas
+290330 BA Barro Preto
+290340 BA Belmonte
+290350 BA Belo Campo
+290360 BA Biritinga
+290370 BA Boa Nova
+290380 BA Boa Vista do Tupim
+290390 BA Bom Jesus da Lapa
+290395 BA Bom Jesus da Serra
+290400 BA Boninal
+290405 BA Bonito
+290410 BA Boquira
+290420 BA Botuporã
+290430 BA Brejões
+290440 BA Brejolândia
+290450 BA Brotas de Macaúbas
+290460 BA Brumado
+290470 BA Buerarema
+290475 BA Buritirama
+290480 BA Caatiba
+290485 BA Cabaceiras do Paraguaçu
+290490 BA Cachoeira
+290500 BA Caculé
+290510 BA Caém
+290515 BA Caetanos
+290520 BA Caetité
+290530 BA Cafarnaum
+290540 BA Cairu
+290550 BA Caldeirão Grande
+290560 BA Camacan
+290570 BA Camaçari
+290580 BA Camamu
+290590 BA Campo Alegre de Lourdes
+290600 BA Campo Formoso
+290610 BA Canápolis
+290620 BA Canarana
+290630 BA Canavieiras
+290640 BA Candeal
+290650 BA Candeias
+290660 BA Candiba
+290670 BA Cândido Sales
+290680 BA Cansanção
+290682 BA Canudos
+290685 BA Capela do Alto Alegre
+290687 BA Capim Grosso
+290689 BA Caraíbas
+290690 BA Caravelas
+290700 BA Cardeal da Silva
+290710 BA Carinhanha
+290720 BA Casa Nova
+290730 BA Castro Alves
+290740 BA Catolândia
+290750 BA Catu
+290755 BA Caturama
+290760 BA Central
+290770 BA Chorrochó
+290780 BA Cícero Dantas
+290790 BA Cipó
+290800 BA Coaraci
+290810 BA Cocos
+290820 BA Conceição da Feira
+290830 BA Conceição do Almeida
+290840 BA Conceição do Coité
+290850 BA Conceição do Jacuípe
+290860 BA Conde
+290870 BA Condeúba
+290880 BA Contendas do Sincorá
+290890 BA Coração de Maria
+290900 BA Cordeiros
+290910 BA Coribe
+290920 BA Coronel João Sá
+290930 BA Correntina
+290940 BA Cotegipe
+290950 BA Cravolândia
+290960 BA Crisópolis
+290970 BA Cristópolis
+290980 BA Cruz das Almas
+290990 BA Curaçá
+291000 BA Dário Meira
+291005 BA Dias d`Ávila
+291010 BA Dom Basílio
+291020 BA Dom Macedo Costa
+291030 BA Elísio Medrado
+291040 BA Encruzilhada
+291050 BA Entre Rios
+291060 BA Esplanada
+291070 BA Euclides da Cunha
+291072 BA Eunápolis
+291075 BA Fátima
+291077 BA Feira da Mata
+291080 BA Feira de Santana
+291085 BA Filadélfia
+291090 BA Firmino Alves
+291100 BA Floresta Azul
+291110 BA Formosa do Rio Preto
+291120 BA Gandu
+291125 BA Gavião
+291130 BA Gentio do Ouro
+291140 BA Glória
+291150 BA Gongogi
+291160 BA Governador Mangabeira
+291165 BA Guajeru
+291170 BA Guanambi
+291180 BA Guaratinga
+291185 BA Heliópolis
+291190 BA Iaçu
+291200 BA Ibiassucê
+291210 BA Ibicaraí
+291220 BA Ibicoara
+291230 BA Ibicuí
+291240 BA Ibipeba
+291250 BA Ibipitanga
+291260 BA Ibiquera
+291270 BA Ibirapitanga
+291280 BA Ibirapuã
+291290 BA Ibirataia
+291300 BA Ibitiara
+291310 BA Ibititá
+291320 BA Ibotirama
+291330 BA Ichu
+291340 BA Igaporã
+291345 BA Igrapiúna
+291350 BA Iguaí
+291360 BA Ilhéus
+291370 BA Inhambupe
+291380 BA Ipecaetá
+291390 BA Ipiaú
+291400 BA Ipirá
+291410 BA Ipupiara
+291420 BA Irajuba
+291430 BA Iramaia
+291440 BA Iraquara
+291450 BA Irará
+291460 BA Irecê
+291465 BA Itabela
+291470 BA Itaberaba
+291480 BA Itabuna
+291490 BA Itacaré
+291500 BA Itaeté
+291510 BA Itagi
+291520 BA Itagibá
+291530 BA Itagimirim
+291535 BA Itaguaçu da Bahia
+291540 BA Itaju do Colônia
+291550 BA Itajuípe
+291560 BA Itamaraju
+291570 BA Itamari
+291580 BA Itambé
+291590 BA Itanagra
+291600 BA Itanhém
+291610 BA Itaparica
+291620 BA Itapé
+291630 BA Itapebi
+291640 BA Itapetinga
+291650 BA Itapicuru
+291660 BA Itapitanga
+291670 BA Itaquara
+291680 BA Itarantim
+291685 BA Itatim
+291690 BA Itiruçu
+291700 BA Itiúba
+291710 BA Itororó
+291720 BA Ituaçu
+291730 BA Ituberá
+291733 BA Iuiú
+291735 BA Jaborandi
+291740 BA Jacaraci
+291750 BA Jacobina
+291760 BA Jaguaquara
+291770 BA Jaguarari
+291780 BA Jaguaripe
+291790 BA Jandaíra
+291800 BA Jequié
+291810 BA Jeremoabo
+291820 BA Jiquiriçá
+291830 BA Jitaúna
+291835 BA João Dourado
+291840 BA Juazeiro
+291845 BA Jucuruçu
+291850 BA Jussara
+291855 BA Jussari
+291860 BA Jussiape
+291870 BA Lafaiete Coutinho
+291875 BA Lagoa Real
+291880 BA Laje
+291890 BA Lajedão
+291900 BA Lajedinho
+291905 BA Lajedo do Tabocal
+291910 BA Lamarão
+291915 BA Lapão
+291920 BA Lauro de Freitas
+291930 BA Lençóis
+291940 BA Licínio de Almeida
+291950 BA Livramento de Nossa Senhora
+291955 BA Luís Eduardo Magalhães
+291960 BA Macajuba
+291970 BA Macarani
+291980 BA Macaúbas
+291990 BA Macururé
+291992 BA Madre de Deus
+291995 BA Maetinga
+292000 BA Maiquinique
+292010 BA Mairi
+292020 BA Malhada
+292030 BA Malhada de Pedras
+292040 BA Manoel Vitorino
+292045 BA Mansidão
+292050 BA Maracás
+292060 BA Maragogipe
+292070 BA Maraú
+292080 BA Marcionílio Souza
+292090 BA Mascote
+292100 BA Mata de São João
+292105 BA Matina
+292110 BA Medeiros Neto
+292120 BA Miguel Calmon
+292130 BA Milagres
+292140 BA Mirangaba
+292145 BA Mirante
+292150 BA Monte Santo
+292160 BA Morpará
+292170 BA Morro do Chapéu
+292180 BA Mortugaba
+292190 BA Mucugê
+292200 BA Mucuri
+292205 BA Mulungu do Morro
+292210 BA Mundo Novo
+292220 BA Muniz Ferreira
+292225 BA Muquém de São Francisco
+292230 BA Muritiba
+292240 BA Mutuípe
+292250 BA Nazaré
+292260 BA Nilo Peçanha
+292265 BA Nordestina
+292270 BA Nova Canaã
+292273 BA Nova Fátima
+292275 BA Nova Ibiá
+292280 BA Nova Itarana
+292285 BA Nova Redenção
+292290 BA Nova Soure
+292300 BA Nova Viçosa
+292303 BA Novo Horizonte
+292305 BA Novo Triunfo
+292310 BA Olindina
+292320 BA Oliveira dos Brejinhos
+292330 BA Ouriçangas
+292335 BA Ourolândia
+292340 BA Palmas de Monte Alto
+292350 BA Palmeiras
+292360 BA Paramirim
+292370 BA Paratinga
+292380 BA Paripiranga
+292390 BA Pau Brasil
+292400 BA Paulo Afonso
+292405 BA Pé de Serra
+292410 BA Pedrão
+292420 BA Pedro Alexandre
+292430 BA Piatã
+292440 BA Pilão Arcado
+292450 BA Pindaí
+292460 BA Pindobaçu
+292465 BA Pintadas
+292467 BA Piraí do Norte
+292470 BA Piripá
+292480 BA Piritiba
+292490 BA Planaltino
+292500 BA Planalto
+292510 BA Poções
+292520 BA Pojuca
+292525 BA Ponto Novo
+292530 BA Porto Seguro
+292540 BA Potiraguá
+292550 BA Prado
+292560 BA Presidente Dutra
+292570 BA Presidente Jânio Quadros
+292575 BA Presidente Tancredo Neves
+292580 BA Queimadas
+292590 BA Quijingue
+292593 BA Quixabeira
+292595 BA Rafael Jambeiro
+292600 BA Remanso
+292610 BA Retirolândia
+292620 BA Riachão das Neves
+292630 BA Riachão do Jacuípe
+292640 BA Riacho de Santana
+292650 BA Ribeira do Amparo
+292660 BA Ribeira do Pombal
+292665 BA Ribeirão do Largo
+292670 BA Rio de Contas
+292680 BA Rio do Antônio
+292690 BA Rio do Pires
+292700 BA Rio Real
+292710 BA Rodelas
+292720 BA Ruy Barbosa
+292730 BA Salinas da Margarida
+292740 BA Salvador
+292750 BA Santa Bárbara
+292760 BA Santa Brígida
+292770 BA Santa Cruz Cabrália
+292780 BA Santa Cruz da Vitória
+292790 BA Santa Inês
+292800 BA Santaluz
+292805 BA Santa Luzia
+292810 BA Santa Maria da Vitória
+292820 BA Santana
+292830 BA Santanópolis
+292840 BA Santa Rita de Cássia
+292850 BA Santa Teresinha
+292860 BA Santo Amaro
+292870 BA Santo Antônio de Jesus
+292880 BA Santo Estêvão
+292890 BA São Desidério
+292895 BA São Domingos
+292900 BA São Félix
+292905 BA São Félix do Coribe
+292910 BA São Felipe
+292920 BA São Francisco do Conde
+292925 BA São Gabriel
+292930 BA São Gonçalo dos Campos
+292935 BA São José da Vitória
+292937 BA São José do Jacuípe
+292940 BA São Miguel das Matas
+292950 BA São Sebastião do Passé
+292960 BA Sapeaçu
+292970 BA Sátiro Dias
+292975 BA Saubara
+292980 BA Saúde
+292990 BA Seabra
+293000 BA Sebastião Laranjeiras
+293010 BA Senhor do Bonfim
+293015 BA Serra do Ramalho
+293020 BA Sento Sé
+293030 BA Serra Dourada
+293040 BA Serra Preta
+293050 BA Serrinha
+293060 BA Serrolândia
+293070 BA Simões Filho
+293075 BA Sítio do Mato
+293076 BA Sítio do Quinto
+293077 BA Sobradinho
+293080 BA Souto Soares
+293090 BA Tabocas do Brejo Velho
+293100 BA Tanhaçu
+293105 BA Tanque Novo
+293110 BA Tanquinho
+293120 BA Taperoá
+293130 BA Tapiramutá
+293135 BA Teixeira de Freitas
+293140 BA Teodoro Sampaio
+293150 BA Teofilândia
+293160 BA Teolândia
+293170 BA Terra Nova
+293180 BA Tremedal
+293190 BA Tucano
+293200 BA Uauá
+293210 BA Ubaíra
+293220 BA Ubaitaba
+293230 BA Ubatã
+293240 BA Uibaí
+293245 BA Umburanas
+293250 BA Una
+293260 BA Urandi
+293270 BA Uruçuca
+293280 BA Utinga
+293290 BA Valença
+293300 BA Valente
+293305 BA Várzea da Roça
+293310 BA Várzea do Poço
+293315 BA Várzea Nova
+293317 BA Varzedo
+293320 BA Vera Cruz
+293325 BA Vereda
+293330 BA Vitória da Conquista
+293340 BA Wagner
+293345 BA Wanderley
+293350 BA Wenceslau Guimarães
+293360 BA Xique-Xique
+310010 MG Abadia dos Dourados
+310020 MG Abaeté
+310030 MG Abre Campo
+310040 MG Acaiaca
+310050 MG Açucena
+310060 MG Água Boa
+310070 MG Água Comprida
+310080 MG Aguanil
+310090 MG Águas Formosas
+310100 MG Águas Vermelhas
+310110 MG Aimorés
+310120 MG Aiuruoca
+310130 MG Alagoa
+310140 MG Albertina
+310150 MG Além Paraíba
+310160 MG Alfenas
+310163 MG Alfredo Vasconcelos
+310170 MG Almenara
+310180 MG Alpercata
+310190 MG Alpinópolis
+310200 MG Alterosa
+310205 MG Alto Caparaó
+310210 MG Alto Rio Doce
+310220 MG Alvarenga
+310230 MG Alvinópolis
+310240 MG Alvorada de Minas
+310250 MG Amparo do Serra
+310260 MG Andradas
+310270 MG Cachoeira de Pajeú
+310280 MG Andrelândia
+310285 MG Angelândia
+310290 MG Antônio Carlos
+310300 MG Antônio Dias
+310310 MG Antônio Prado de Minas
+310320 MG Araçaí
+310330 MG Aracitaba
+310340 MG Araçuaí
+310350 MG Araguari
+310360 MG Arantina
+310370 MG Araponga
+310375 MG Araporã
+310380 MG Arapuá
+310390 MG Araújos
+310400 MG Araxá
+310410 MG Arceburgo
+310420 MG Arcos
+310430 MG Areado
+310440 MG Argirita
+310445 MG Aricanduva
+310450 MG Arinos
+310460 MG Astolfo Dutra
+310470 MG Ataléia
+310480 MG Augusto de Lima
+310490 MG Baependi
+310500 MG Baldim
+310510 MG Bambuí
+310520 MG Bandeira
+310530 MG Bandeira do Sul
+310540 MG Barão de Cocais
+310550 MG Barão de Monte Alto
+310560 MG Barbacena
+310570 MG Barra Longa
+310590 MG Barroso
+310600 MG Bela Vista de Minas
+310610 MG Belmiro Braga
+310620 MG Belo Horizonte
+310630 MG Belo Oriente
+310640 MG Belo Vale
+310650 MG Berilo
+310660 MG Bertópolis
+310665 MG Berizal
+310670 MG Betim
+310680 MG Bias Fortes
+310690 MG Bicas
+310700 MG Biquinhas
+310710 MG Boa Esperança
+310720 MG Bocaina de Minas
+310730 MG Bocaiúva
+310740 MG Bom Despacho
+310750 MG Bom Jardim de Minas
+310760 MG Bom Jesus da Penha
+310770 MG Bom Jesus do Amparo
+310780 MG Bom Jesus do Galho
+310790 MG Bom Repouso
+310800 MG Bom Sucesso
+310810 MG Bonfim
+310820 MG Bonfinópolis de Minas
+310825 MG Bonito de Minas
+310830 MG Borda da Mata
+310840 MG Botelhos
+310850 MG Botumirim
+310855 MG Brasilândia de Minas
+310860 MG Brasília de Minas
+310870 MG Brás Pires
+310880 MG Braúnas
+310890 MG Brasópolis
+310900 MG Brumadinho
+310910 MG Bueno Brandão
+310920 MG Buenópolis
+310925 MG Bugre
+310930 MG Buritis
+310940 MG Buritizeiro
+310945 MG Cabeceira Grande
+310950 MG Cabo Verde
+310960 MG Cachoeira da Prata
+310970 MG Cachoeira de Minas
+310980 MG Cachoeira Dourada
+310990 MG Caetanópolis
+311000 MG Caeté
+311010 MG Caiana
+311020 MG Cajuri
+311030 MG Caldas
+311040 MG Camacho
+311050 MG Camanducaia
+311060 MG Cambuí
+311070 MG Cambuquira
+311080 MG Campanário
+311090 MG Campanha
+311100 MG Campestre
+311110 MG Campina Verde
+311115 MG Campo Azul
+311120 MG Campo Belo
+311130 MG Campo do Meio
+311140 MG Campo Florido
+311150 MG Campos Altos
+311160 MG Campos Gerais
+311170 MG Canaã
+311180 MG Canápolis
+311190 MG Cana Verde
+311200 MG Candeias
+311205 MG Cantagalo
+311210 MG Caparaó
+311220 MG Capela Nova
+311230 MG Capelinha
+311240 MG Capetinga
+311250 MG Capim Branco
+311260 MG Capinópolis
+311265 MG Capitão Andrade
+311270 MG Capitão Enéas
+311280 MG Capitólio
+311290 MG Caputira
+311300 MG Caraí
+311310 MG Caranaíba
+311320 MG Carandaí
+311330 MG Carangola
+311340 MG Caratinga
+311350 MG Carbonita
+311360 MG Careaçu
+311370 MG Carlos Chagas
+311380 MG Carmésia
+311390 MG Carmo da Cachoeira
+311400 MG Carmo da Mata
+311410 MG Carmo de Minas
+311420 MG Carmo do Cajuru
+311430 MG Carmo do Paranaíba
+311440 MG Carmo do Rio Claro
+311450 MG Carmópolis de Minas
+311455 MG Carneirinho
+311460 MG Carrancas
+311470 MG Carvalhópolis
+311480 MG Carvalhos
+311490 MG Casa Grande
+311500 MG Cascalho Rico
+311510 MG Cássia
+311520 MG Conceição da Barra de Minas
+311530 MG Cataguases
+311535 MG Catas Altas
+311540 MG Catas Altas da Noruega
+311545 MG Catuji
+311547 MG Catuti
+311550 MG Caxambu
+311560 MG Cedro do Abaeté
+311570 MG Central de Minas
+311580 MG Centralina
+311590 MG Chácara
+311600 MG Chalé
+311610 MG Chapada do Norte
+311615 MG Chapada Gaúcha
+311620 MG Chiador
+311630 MG Cipotânea
+311640 MG Claraval
+311650 MG Claro dos Poções
+311660 MG Cláudio
+311670 MG Coimbra
+311680 MG Coluna
+311690 MG Comendador Gomes
+311700 MG Comercinho
+311710 MG Conceição da Aparecida
+311720 MG Conceição das Pedras
+311730 MG Conceição das Alagoas
+311740 MG Conceição de Ipanema
+311750 MG Conceição do Mato Dentro
+311760 MG Conceição do Pará
+311770 MG Conceição do Rio Verde
+311780 MG Conceição dos Ouros
+311783 MG Cônego Marinho
+311787 MG Confins
+311790 MG Congonhal
+311800 MG Congonhas
+311810 MG Congonhas do Norte
+311820 MG Conquista
+311830 MG Conselheiro Lafaiete
+311840 MG Conselheiro Pena
+311850 MG Consolação
+311860 MG Contagem
+311870 MG Coqueiral
+311880 MG Coração de Jesus
+311890 MG Cordisburgo
+311900 MG Cordislândia
+311910 MG Corinto
+311920 MG Coroaci
+311930 MG Coromandel
+311940 MG Coronel Fabriciano
+311950 MG Coronel Murta
+311960 MG Coronel Pacheco
+311970 MG Coronel Xavier Chaves
+311980 MG Córrego Danta
+311990 MG Córrego do Bom Jesus
+311995 MG Córrego Fundo
+312000 MG Córrego Novo
+312010 MG Couto de Magalhães de Minas
+312015 MG Crisólita
+312020 MG Cristais
+312030 MG Cristália
+312040 MG Cristiano Otoni
+312050 MG Cristina
+312060 MG Crucilândia
+312070 MG Cruzeiro da Fortaleza
+312080 MG Cruzília
+312083 MG Cuparaque
+312087 MG Curral de Dentro
+312090 MG Curvelo
+312100 MG Datas
+312110 MG Delfim Moreira
+312120 MG Delfinópolis
+312125 MG Delta
+312130 MG Descoberto
+312140 MG Desterro de Entre Rios
+312150 MG Desterro do Melo
+312160 MG Diamantina
+312170 MG Diogo de Vasconcelos
+312180 MG Dionísio
+312190 MG Divinésia
+312200 MG Divino
+312210 MG Divino das Laranjeiras
+312220 MG Divinolândia de Minas
+312230 MG Divinópolis
+312235 MG Divisa Alegre
+312240 MG Divisa Nova
+312245 MG Divisópolis
+312247 MG Dom Bosco
+312250 MG Dom Cavati
+312260 MG Dom Joaquim
+312270 MG Dom Silvério
+312280 MG Dom Viçoso
+312290 MG Dona Eusébia
+312300 MG Dores de Campos
+312310 MG Dores de Guanhães
+312320 MG Dores do Indaiá
+312330 MG Dores do Turvo
+312340 MG Doresópolis
+312350 MG Douradoquara
+312352 MG Durandé
+312360 MG Elói Mendes
+312370 MG Engenheiro Caldas
+312380 MG Engenheiro Navarro
+312385 MG Entre Folhas
+312390 MG Entre Rios de Minas
+312400 MG Ervália
+312410 MG Esmeraldas
+312420 MG Espera Feliz
+312430 MG Espinosa
+312440 MG Espírito Santo do Dourado
+312450 MG Estiva
+312460 MG Estrela Dalva
+312470 MG Estrela do Indaiá
+312480 MG Estrela do Sul
+312490 MG Eugenópolis
+312500 MG Ewbank da Câmara
+312510 MG Extrema
+312520 MG Fama
+312530 MG Faria Lemos
+312540 MG Felício dos Santos
+312550 MG São Gonçalo do Rio Preto
+312560 MG Felisburgo
+312570 MG Felixlândia
+312580 MG Fernandes Tourinho
+312590 MG Ferros
+312595 MG Fervedouro
+312600 MG Florestal
+312610 MG Formiga
+312620 MG Formoso
+312630 MG Fortaleza de Minas
+312640 MG Fortuna de Minas
+312650 MG Francisco Badaró
+312660 MG Francisco Dumont
+312670 MG Francisco Sá
+312675 MG Franciscópolis
+312680 MG Frei Gaspar
+312690 MG Frei Inocêncio
+312695 MG Frei Lagonegro
+312700 MG Fronteira
+312705 MG Fronteira dos Vales
+312707 MG Fruta de Leite
+312710 MG Frutal
+312720 MG Funilândia
+312730 MG Galiléia
+312733 MG Gameleiras
+312735 MG Glaucilândia
+312737 MG Goiabeira
+312738 MG Goianá
+312740 MG Gonçalves
+312750 MG Gonzaga
+312760 MG Gouveia
+312770 MG Governador Valadares
+312780 MG Grão Mogol
+312790 MG Grupiara
+312800 MG Guanhães
+312810 MG Guapé
+312820 MG Guaraciaba
+312825 MG Guaraciama
+312830 MG Guaranésia
+312840 MG Guarani
+312850 MG Guarará
+312860 MG Guarda-Mor
+312870 MG Guaxupé
+312880 MG Guidoval
+312890 MG Guimarânia
+312900 MG Guiricema
+312910 MG Gurinhatã
+312920 MG Heliodora
+312930 MG Iapu
+312940 MG Ibertioga
+312950 MG Ibiá
+312960 MG Ibiaí
+312965 MG Ibiracatu
+312970 MG Ibiraci
+312980 MG Ibirité
+312990 MG Ibitiúra de Minas
+313000 MG Ibituruna
+313005 MG Icaraí de Minas
+313010 MG Igarapé
+313020 MG Igaratinga
+313030 MG Iguatama
+313040 MG Ijaci
+313050 MG Ilicínea
+313055 MG Imbé de Minas
+313060 MG Inconfidentes
+313065 MG Indaiabira
+313070 MG Indianópolis
+313080 MG Ingaí
+313090 MG Inhapim
+313100 MG Inhaúma
+313110 MG Inimutaba
+313115 MG Ipaba
+313120 MG Ipanema
+313130 MG Ipatinga
+313140 MG Ipiaçu
+313150 MG Ipuiúna
+313160 MG Iraí de Minas
+313170 MG Itabira
+313180 MG Itabirinha
+313190 MG Itabirito
+313200 MG Itacambira
+313210 MG Itacarambi
+313220 MG Itaguara
+313230 MG Itaipé
+313240 MG Itajubá
+313250 MG Itamarandiba
+313260 MG Itamarati de Minas
+313270 MG Itambacuri
+313280 MG Itambé do Mato Dentro
+313290 MG Itamogi
+313300 MG Itamonte
+313310 MG Itanhandu
+313320 MG Itanhomi
+313330 MG Itaobim
+313340 MG Itapagipe
+313350 MG Itapecerica
+313360 MG Itapeva
+313370 MG Itatiaiuçu
+313375 MG Itaú de Minas
+313380 MG Itaúna
+313390 MG Itaverava
+313400 MG Itinga
+313410 MG Itueta
+313420 MG Ituiutaba
+313430 MG Itumirim
+313440 MG Iturama
+313450 MG Itutinga
+313460 MG Jaboticatubas
+313470 MG Jacinto
+313480 MG Jacuí
+313490 MG Jacutinga
+313500 MG Jaguaraçu
+313505 MG Jaíba
+313507 MG Jampruca
+313510 MG Janaúba
+313520 MG Januária
+313530 MG Japaraíba
+313535 MG Japonvar
+313540 MG Jeceaba
+313545 MG Jenipapo de Minas
+313550 MG Jequeri
+313560 MG Jequitaí
+313570 MG Jequitibá
+313580 MG Jequitinhonha
+313590 MG Jesuânia
+313600 MG Joaíma
+313610 MG Joanésia
+313620 MG João Monlevade
+313630 MG João Pinheiro
+313640 MG Joaquim Felício
+313650 MG Jordânia
+313652 MG José Gonçalves de Minas
+313655 MG José Raydan
+313657 MG Josenópolis
+313660 MG Nova União
+313665 MG Juatuba
+313670 MG Juiz de Fora
+313680 MG Juramento
+313690 MG Juruaia
+313695 MG Juvenília
+313700 MG Ladainha
+313710 MG Lagamar
+313720 MG Lagoa da Prata
+313730 MG Lagoa dos Patos
+313740 MG Lagoa Dourada
+313750 MG Lagoa Formosa
+313753 MG Lagoa Grande
+313760 MG Lagoa Santa
+313770 MG Lajinha
+313780 MG Lambari
+313790 MG Lamim
+313800 MG Laranjal
+313810 MG Lassance
+313820 MG Lavras
+313830 MG Leandro Ferreira
+313835 MG Leme do Prado
+313840 MG Leopoldina
+313850 MG Liberdade
+313860 MG Lima Duarte
+313862 MG Limeira do Oeste
+313865 MG Lontra
+313867 MG Luisburgo
+313868 MG Luislândia
+313870 MG Luminárias
+313880 MG Luz
+313890 MG Machacalis
+313900 MG Machado
+313910 MG Madre de Deus de Minas
+313920 MG Malacacheta
+313925 MG Mamonas
+313930 MG Manga
+313940 MG Manhuaçu
+313950 MG Manhumirim
+313960 MG Mantena
+313970 MG Maravilhas
+313980 MG Mar de Espanha
+313990 MG Maria da Fé
+314000 MG Mariana
+314010 MG Marilac
+314015 MG Mário Campos
+314020 MG Maripá de Minas
+314030 MG Marliéria
+314040 MG Marmelópolis
+314050 MG Martinho Campos
+314053 MG Martins Soares
+314055 MG Mata Verde
+314060 MG Materlândia
+314070 MG Mateus Leme
+314080 MG Matias Barbosa
+314085 MG Matias Cardoso
+314090 MG Matipó
+314100 MG Mato Verde
+314110 MG Matozinhos
+314120 MG Matutina
+314130 MG Medeiros
+314140 MG Medina
+314150 MG Mendes Pimentel
+314160 MG Mercês
+314170 MG Mesquita
+314180 MG Minas Novas
+314190 MG Minduri
+314200 MG Mirabela
+314210 MG Miradouro
+314220 MG Miraí
+314225 MG Miravânia
+314230 MG Moeda
+314240 MG Moema
+314250 MG Monjolos
+314260 MG Monsenhor Paulo
+314270 MG Montalvânia
+314280 MG Monte Alegre de Minas
+314290 MG Monte Azul
+314300 MG Monte Belo
+314310 MG Monte Carmelo
+314315 MG Monte Formoso
+314320 MG Monte Santo de Minas
+314330 MG Montes Claros
+314340 MG Monte Sião
+314345 MG Montezuma
+314350 MG Morada Nova de Minas
+314360 MG Morro da Garça
+314370 MG Morro do Pilar
+314380 MG Munhoz
+314390 MG Muriaé
+314400 MG Mutum
+314410 MG Muzambinho
+314420 MG Nacip Raydan
+314430 MG Nanuque
+314435 MG Naque
+314437 MG Natalândia
+314440 MG Natércia
+314450 MG Nazareno
+314460 MG Nepomuceno
+314465 MG Ninheira
+314467 MG Nova Belém
+314470 MG Nova Era
+314480 MG Nova Lima
+314490 MG Nova Módica
+314500 MG Nova Ponte
+314505 MG Nova Porteirinha
+314510 MG Nova Resende
+314520 MG Nova Serrana
+314530 MG Novo Cruzeiro
+314535 MG Novo Oriente de Minas
+314537 MG Novorizonte
+314540 MG Olaria
+314545 MG Olhos-d`Água
+314550 MG Olímpio Noronha
+314560 MG Oliveira
+314570 MG Oliveira Fortes
+314580 MG Onça de Pitangui
+314585 MG Oratórios
+314587 MG Orizânia
+314590 MG Ouro Branco
+314600 MG Ouro Fino
+314610 MG Ouro Preto
+314620 MG Ouro Verde de Minas
+314625 MG Padre Carvalho
+314630 MG Padre Paraíso
+314640 MG Paineiras
+314650 MG Pains
+314655 MG Pai Pedro
+314660 MG Paiva
+314670 MG Palma
+314675 MG Palmópolis
+314690 MG Papagaios
+314700 MG Paracatu
+314710 MG Pará de Minas
+314720 MG Paraguaçu
+314730 MG Paraisópolis
+314740 MG Paraopeba
+314750 MG Passabém
+314760 MG Passa Quatro
+314770 MG Passa Tempo
+314780 MG Passa-Vinte
+314790 MG Passos
+314795 MG Patis
+314800 MG Patos de Minas
+314810 MG Patrocínio
+314820 MG Patrocínio do Muriaé
+314830 MG Paula Cândido
+314840 MG Paulistas
+314850 MG Pavão
+314860 MG Peçanha
+314870 MG Pedra Azul
+314875 MG Pedra Bonita
+314880 MG Pedra do Anta
+314890 MG Pedra do Indaiá
+314900 MG Pedra Dourada
+314910 MG Pedralva
+314915 MG Pedras de Maria da Cruz
+314920 MG Pedrinópolis
+314930 MG Pedro Leopoldo
+314940 MG Pedro Teixeira
+314950 MG Pequeri
+314960 MG Pequi
+314970 MG Perdigão
+314980 MG Perdizes
+314990 MG Perdões
+314995 MG Periquito
+315000 MG Pescador
+315010 MG Piau
+315015 MG Piedade de Caratinga
+315020 MG Piedade de Ponte Nova
+315030 MG Piedade do Rio Grande
+315040 MG Piedade dos Gerais
+315050 MG Pimenta
+315053 MG Pingo-d`Água
+315057 MG Pintópolis
+315060 MG Piracema
+315070 MG Pirajuba
+315080 MG Piranga
+315090 MG Piranguçu
+315100 MG Piranguinho
+315110 MG Pirapetinga
+315120 MG Pirapora
+315130 MG Piraúba
+315140 MG Pitangui
+315150 MG Piumhi
+315160 MG Planura
+315170 MG Poço Fundo
+315180 MG Poços de Caldas
+315190 MG Pocrane
+315200 MG Pompéu
+315210 MG Ponte Nova
+315213 MG Ponto Chique
+315217 MG Ponto dos Volantes
+315220 MG Porteirinha
+315230 MG Porto Firme
+315240 MG Poté
+315250 MG Pouso Alegre
+315260 MG Pouso Alto
+315270 MG Prados
+315280 MG Prata
+315290 MG Pratápolis
+315300 MG Pratinha
+315310 MG Presidente Bernardes
+315320 MG Presidente Juscelino
+315330 MG Presidente Kubitschek
+315340 MG Presidente Olegário
+315350 MG Alto Jequitibá
+315360 MG Prudente de Morais
+315370 MG Quartel Geral
+315380 MG Queluzito
+315390 MG Raposos
+315400 MG Raul Soares
+315410 MG Recreio
+315415 MG Reduto
+315420 MG Resende Costa
+315430 MG Resplendor
+315440 MG Ressaquinha
+315445 MG Riachinho
+315450 MG Riacho dos Machados
+315460 MG Ribeirão das Neves
+315470 MG Ribeirão Vermelho
+315480 MG Rio Acima
+315490 MG Rio Casca
+315500 MG Rio Doce
+315510 MG Rio do Prado
+315520 MG Rio Espera
+315530 MG Rio Manso
+315540 MG Rio Novo
+315550 MG Rio Paranaíba
+315560 MG Rio Pardo de Minas
+315570 MG Rio Piracicaba
+315580 MG Rio Pomba
+315590 MG Rio Preto
+315600 MG Rio Vermelho
+315610 MG Ritápolis
+315620 MG Rochedo de Minas
+315630 MG Rodeiro
+315640 MG Romaria
+315645 MG Rosário da Limeira
+315650 MG Rubelita
+315660 MG Rubim
+315670 MG Sabará
+315680 MG Sabinópolis
+315690 MG Sacramento
+315700 MG Salinas
+315710 MG Salto da Divisa
+315720 MG Santa Bárbara
+315725 MG Santa Bárbara do Leste
+315727 MG Santa Bárbara do Monte Verde
+315730 MG Santa Bárbara do Tugúrio
+315733 MG Santa Cruz de Minas
+315737 MG Santa Cruz de Salinas
+315740 MG Santa Cruz do Escalvado
+315750 MG Santa Efigênia de Minas
+315760 MG Santa Fé de Minas
+315765 MG Santa Helena de Minas
+315770 MG Santa Juliana
+315780 MG Santa Luzia
+315790 MG Santa Margarida
+315800 MG Santa Maria de Itabira
+315810 MG Santa Maria do Salto
+315820 MG Santa Maria do Suaçuí
+315830 MG Santana da Vargem
+315840 MG Santana de Cataguases
+315850 MG Santana de Pirapama
+315860 MG Santana do Deserto
+315870 MG Santana do Garambéu
+315880 MG Santana do Jacaré
+315890 MG Santana do Manhuaçu
+315895 MG Santana do Paraíso
+315900 MG Santana do Riacho
+315910 MG Santana dos Montes
+315920 MG Santa Rita de Caldas
+315930 MG Santa Rita de Jacutinga
+315935 MG Santa Rita de Minas
+315940 MG Santa Rita de Ibitipoca
+315950 MG Santa Rita do Itueto
+315960 MG Santa Rita do Sapucaí
+315970 MG Santa Rosa da Serra
+315980 MG Santa Vitória
+315990 MG Santo Antônio do Amparo
+316000 MG Santo Antônio do Aventureiro
+316010 MG Santo Antônio do Grama
+316020 MG Santo Antônio do Itambé
+316030 MG Santo Antônio do Jacinto
+316040 MG Santo Antônio do Monte
+316045 MG Santo Antônio do Retiro
+316050 MG Santo Antônio do Rio Abaixo
+316060 MG Santo Hipólito
+316070 MG Santos Dumont
+316080 MG São Bento Abade
+316090 MG São Brás do Suaçuí
+316095 MG São Domingos das Dores
+316100 MG São Domingos do Prata
+316105 MG São Félix de Minas
+316110 MG São Francisco
+316120 MG São Francisco de Paula
+316130 MG São Francisco de Sales
+316140 MG São Francisco do Glória
+316150 MG São Geraldo
+316160 MG São Geraldo da Piedade
+316165 MG São Geraldo do Baixio
+316170 MG São Gonçalo do Abaeté
+316180 MG São Gonçalo do Pará
+316190 MG São Gonçalo do Rio Abaixo
+316200 MG São Gonçalo do Sapucaí
+316210 MG São Gotardo
+316220 MG São João Batista do Glória
+316225 MG São João da Lagoa
+316230 MG São João da Mata
+316240 MG São João da Ponte
+316245 MG São João das Missões
+316250 MG São João del Rei
+316255 MG São João do Manhuaçu
+316257 MG São João do Manteninha
+316260 MG São João do Oriente
+316265 MG São João do Pacuí
+316270 MG São João do Paraíso
+316280 MG São João Evangelista
+316290 MG São João Nepomuceno
+316292 MG São Joaquim de Bicas
+316294 MG São José da Barra
+316295 MG São José da Lapa
+316300 MG São José da Safira
+316310 MG São José da Varginha
+316320 MG São José do Alegre
+316330 MG São José do Divino
+316340 MG São José do Goiabal
+316350 MG São José do Jacuri
+316360 MG São José do Mantimento
+316370 MG São Lourenço
+316380 MG São Miguel do Anta
+316390 MG São Pedro da União
+316400 MG São Pedro dos Ferros
+316410 MG São Pedro do Suaçuí
+316420 MG São Romão
+316430 MG São Roque de Minas
+316440 MG São Sebastião da Bela Vista
+316443 MG São Sebastião da Vargem  Alegre
+316447 MG São Sebastião do Anta
+316450 MG São Sebastião do Maranhão
+316460 MG São Sebastião do Oeste
+316470 MG São Sebastião do Paraíso
+316480 MG São Sebastião do Rio Preto
+316490 MG São Sebastião do Rio Verde
+316500 MG São Tiago
+316510 MG São Tomás de Aquino
+316520 MG São Thomé das Letras
+316530 MG São Vicente de Minas
+316540 MG Sapucaí-Mirim
+316550 MG Sardoá
+316553 MG Sarzedo
+316555 MG Setubinha
+316556 MG Sem-Peixe
+316557 MG Senador Amaral
+316560 MG Senador Cortes
+316570 MG Senador Firmino
+316580 MG Senador José Bento
+316590 MG Senador Modestino Gonçalves
+316600 MG Senhora de Oliveira
+316610 MG Senhora do Porto
+316620 MG Senhora dos Remédios
+316630 MG Sericita
+316640 MG Seritinga
+316650 MG Serra Azul de Minas
+316660 MG Serra da Saudade
+316670 MG Serra dos Aimorés
+316680 MG Serra do Salitre
+316690 MG Serrania
+316695 MG Serranópolis de Minas
+316700 MG Serranos
+316710 MG Serro
+316720 MG Sete Lagoas
+316730 MG Silveirânia
+316740 MG Silvianópolis
+316750 MG Simão Pereira
+316760 MG Simonésia
+316770 MG Sobrália
+316780 MG Soledade de Minas
+316790 MG Tabuleiro
+316800 MG Taiobeiras
+316805 MG Taparuba
+316810 MG Tapira
+316820 MG Tapiraí
+316830 MG Taquaraçu de Minas
+316840 MG Tarumirim
+316850 MG Teixeiras
+316860 MG Teófilo Otoni
+316870 MG Timóteo
+316880 MG Tiradentes
+316890 MG Tiros
+316900 MG Tocantins
+316905 MG Tocos do Moji
+316910 MG Toledo
+316920 MG Tombos
+316930 MG Três Corações
+316935 MG Três Marias
+316940 MG Três Pontas
+316950 MG Tumiritinga
+316960 MG Tupaciguara
+316970 MG Turmalina
+316980 MG Turvolândia
+316990 MG Ubá
+317000 MG Ubaí
+317005 MG Ubaporanga
+317010 MG Uberaba
+317020 MG Uberlândia
+317030 MG Umburatiba
+317040 MG Unaí
+317043 MG União de Minas
+317047 MG Uruana de Minas
+317050 MG Urucânia
+317052 MG Urucuia
+317057 MG Vargem Alegre
+317060 MG Vargem Bonita
+317065 MG Vargem Grande do Rio Pardo
+317070 MG Varginha
+317075 MG Varjão de Minas
+317080 MG Várzea da Palma
+317090 MG Varzelândia
+317100 MG Vazante
+317103 MG Verdelândia
+317107 MG Veredinha
+317110 MG Veríssimo
+317115 MG Vermelho Novo
+317120 MG Vespasiano
+317130 MG Viçosa
+317140 MG Vieiras
+317150 MG Mathias Lobato
+317160 MG Virgem da Lapa
+317170 MG Virgínia
+317180 MG Virginópolis
+317190 MG Virgolândia
+317200 MG Visconde do Rio Branco
+317210 MG Volta Grande
+317220 MG Wenceslau Braz
+320010 ES Afonso Cláudio
+320013 ES Águia Branca
+320016 ES Água Doce do Norte
+320020 ES Alegre
+320030 ES Alfredo Chaves
+320035 ES Alto Rio Novo
+320040 ES Anchieta
+320050 ES Apiacá
+320060 ES Aracruz
+320070 ES Atilio Vivacqua
+320080 ES Baixo Guandu
+320090 ES Barra de São Francisco
+320100 ES Boa Esperança
+320110 ES Bom Jesus do Norte
+320115 ES Brejetuba
+320120 ES Cachoeiro de Itapemirim
+320130 ES Cariacica
+320140 ES Castelo
+320150 ES Colatina
+320160 ES Conceição da Barra
+320170 ES Conceição do Castelo
+320180 ES Divino de São Lourenço
+320190 ES Domingos Martins
+320200 ES Dores do Rio Preto
+320210 ES Ecoporanga
+320220 ES Fundão
+320225 ES Governador Lindenberg
+320230 ES Guaçuí
+320240 ES Guarapari
+320245 ES Ibatiba
+320250 ES Ibiraçu
+320255 ES Ibitirama
+320260 ES Iconha
+320265 ES Irupi
+320270 ES Itaguaçu
+320280 ES Itapemirim
+320290 ES Itarana
+320300 ES Iúna
+320305 ES Jaguaré
+320310 ES Jerônimo Monteiro
+320313 ES João Neiva
+320316 ES Laranja da Terra
+320320 ES Linhares
+320330 ES Mantenópolis
+320332 ES Marataízes
+320334 ES Marechal Floriano
+320335 ES Marilândia
+320340 ES Mimoso do Sul
+320350 ES Montanha
+320360 ES Mucurici
+320370 ES Muniz Freire
+320380 ES Muqui
+320390 ES Nova Venécia
+320400 ES Pancas
+320405 ES Pedro Canário
+320410 ES Pinheiros
+320420 ES Piúma
+320425 ES Ponto Belo
+320430 ES Presidente Kennedy
+320435 ES Rio Bananal
+320440 ES Rio Novo do Sul
+320450 ES Santa Leopoldina
+320455 ES Santa Maria de Jetibá
+320460 ES Santa Teresa
+320465 ES São Domingos do Norte
+320470 ES São Gabriel da Palha
+320480 ES São José do Calçado
+320490 ES São Mateus
+320495 ES São Roque do Canaã
+320500 ES Serra
+320501 ES Sooretama
+320503 ES Vargem Alta
+320506 ES Venda Nova do Imigrante
+320510 ES Viana
+320515 ES Vila Pavão
+320517 ES Vila Valério
+320520 ES Vila Velha
+320530 ES Vitória
+330010 RJ Angra dos Reis
+330015 RJ Aperibé
+330020 RJ Araruama
+330022 RJ Areal
+330023 RJ Armação dos Búzios
+330025 RJ Arraial do Cabo
+330030 RJ Barra do Piraí
+330040 RJ Barra Mansa
+330045 RJ Belford Roxo
+330050 RJ Bom Jardim
+330060 RJ Bom Jesus do Itabapoana
+330070 RJ Cabo Frio
+330080 RJ Cachoeiras de Macacu
+330090 RJ Cambuci
+330093 RJ Carapebus
+330095 RJ Comendador Levy Gasparian
+330100 RJ Campos dos Goytacazes
+330110 RJ Cantagalo
+330115 RJ Cardoso Moreira
+330120 RJ Carmo
+330130 RJ Casimiro de Abreu
+330140 RJ Conceição de Macabu
+330150 RJ Cordeiro
+330160 RJ Duas Barras
+330170 RJ Duque de Caxias
+330180 RJ Engenheiro Paulo de Frontin
+330185 RJ Guapimirim
+330187 RJ Iguaba Grande
+330190 RJ Itaboraí
+330200 RJ Itaguaí
+330205 RJ Italva
+330210 RJ Itaocara
+330220 RJ Itaperuna
+330225 RJ Itatiaia
+330227 RJ Japeri
+330230 RJ Laje do Muriaé
+330240 RJ Macaé
+330245 RJ Macuco
+330250 RJ Magé
+330260 RJ Mangaratiba
+330270 RJ Maricá
+330280 RJ Mendes
+330285 RJ Mesquita
+330290 RJ Miguel Pereira
+330300 RJ Miracema
+330310 RJ Natividade
+330320 RJ Nilópolis
+330330 RJ Niterói
+330340 RJ Nova Friburgo
+330350 RJ Nova Iguaçu
+330360 RJ Paracambi
+330370 RJ Paraíba do Sul
+330380 RJ Parati
+330385 RJ Paty do Alferes
+330390 RJ Petrópolis
+330395 RJ Pinheiral
+330400 RJ Piraí
+330410 RJ Porciúncula
+330411 RJ Porto Real
+330412 RJ Quatis
+330414 RJ Queimados
+330415 RJ Quissamã
+330420 RJ Resende
+330430 RJ Rio Bonito
+330440 RJ Rio Claro
+330450 RJ Rio das Flores
+330452 RJ Rio das Ostras
+330455 RJ Rio de Janeiro
+330460 RJ Santa Maria Madalena
+330470 RJ Santo Antônio de Pádua
+330475 RJ São Francisco de Itabapoana
+330480 RJ São Fidélis
+330490 RJ São Gonçalo
+330500 RJ São João da Barra
+330510 RJ São João de Meriti
+330513 RJ São José de Ubá
+330515 RJ São José do Vale do Rio Preto
+330520 RJ São Pedro da Aldeia
+330530 RJ São Sebastião do Alto
+330540 RJ Sapucaia
+330550 RJ Saquarema
+330555 RJ Seropédica
+330560 RJ Silva Jardim
+330570 RJ Sumidouro
+330575 RJ Tanguá
+330580 RJ Teresópolis
+330590 RJ Trajano de Moraes
+330600 RJ Três Rios
+330610 RJ Valença
+330615 RJ Varre-Sai
+330620 RJ Vassouras
+330630 RJ Volta Redonda
+350010 SP Adamantina
+350020 SP Adolfo
+350030 SP Aguaí
+350040 SP Águas da Prata
+350050 SP Águas de Lindóia
+350055 SP Águas de Santa Bárbara
+350060 SP Águas de São Pedro
+350070 SP Agudos
+350075 SP Alambari
+350080 SP Alfredo Marcondes
+350090 SP Altair
+350100 SP Altinópolis
+350110 SP Alto Alegre
+350115 SP Alumínio
+350120 SP Álvares Florence
+350130 SP Álvares Machado
+350140 SP Álvaro de Carvalho
+350150 SP Alvinlândia
+350160 SP Americana
+350170 SP Américo Brasiliense
+350180 SP Américo de Campos
+350190 SP Amparo
+350200 SP Analândia
+350210 SP Andradina
+350220 SP Angatuba
+350230 SP Anhembi
+350240 SP Anhumas
+350250 SP Aparecida
+350260 SP Aparecida d`Oeste
+350270 SP Apiaí
+350275 SP Araçariguama
+350280 SP Araçatuba
+350290 SP Araçoiaba da Serra
+350300 SP Aramina
+350310 SP Arandu
+350315 SP Arapeí
+350320 SP Araraquara
+350330 SP Araras
+350335 SP Arco-Íris
+350340 SP Arealva
+350350 SP Areias
+350360 SP Areiópolis
+350370 SP Ariranha
+350380 SP Artur Nogueira
+350390 SP Arujá
+350395 SP Aspásia
+350400 SP Assis
+350410 SP Atibaia
+350420 SP Auriflama
+350430 SP Avaí
+350440 SP Avanhandava
+350450 SP Avaré
+350460 SP Bady Bassitt
+350470 SP Balbinos
+350480 SP Bálsamo
+350490 SP Bananal
+350500 SP Barão de Antonina
+350510 SP Barbosa
+350520 SP Bariri
+350530 SP Barra Bonita
+350535 SP Barra do Chapéu
+350540 SP Barra do Turvo
+350550 SP Barretos
+350560 SP Barrinha
+350570 SP Barueri
+350580 SP Bastos
+350590 SP Batatais
+350600 SP Bauru
+350610 SP Bebedouro
+350620 SP Bento de Abreu
+350630 SP Bernardino de Campos
+350635 SP Bertioga
+350640 SP Bilac
+350650 SP Birigui
+350660 SP Biritiba-Mirim
+350670 SP Boa Esperança do Sul
+350680 SP Bocaina
+350690 SP Bofete
+350700 SP Boituva
+350710 SP Bom Jesus dos Perdões
+350715 SP Bom Sucesso de Itararé
+350720 SP Borá
+350730 SP Boracéia
+350740 SP Borborema
+350745 SP Borebi
+350750 SP Botucatu
+350760 SP Bragança Paulista
+350770 SP Braúna
+350775 SP Brejo Alegre
+350780 SP Brodowski
+350790 SP Brotas
+350800 SP Buri
+350810 SP Buritama
+350820 SP Buritizal
+350830 SP Cabrália Paulista
+350840 SP Cabreúva
+350850 SP Caçapava
+350860 SP Cachoeira Paulista
+350870 SP Caconde
+350880 SP Cafelândia
+350890 SP Caiabu
+350900 SP Caieiras
+350910 SP Caiuá
+350920 SP Cajamar
+350925 SP Cajati
+350930 SP Cajobi
+350940 SP Cajuru
+350945 SP Campina do Monte Alegre
+350950 SP Campinas
+350960 SP Campo Limpo Paulista
+350970 SP Campos do Jordão
+350980 SP Campos Novos Paulista
+350990 SP Cananéia
+350995 SP Canas
+351000 SP Cândido Mota
+351010 SP Cândido Rodrigues
+351015 SP Canitar
+351020 SP Capão Bonito
+351030 SP Capela do Alto
+351040 SP Capivari
+351050 SP Caraguatatuba
+351060 SP Carapicuíba
+351070 SP Cardoso
+351080 SP Casa Branca
+351090 SP Cássia dos Coqueiros
+351100 SP Castilho
+351110 SP Catanduva
+351120 SP Catiguá
+351130 SP Cedral
+351140 SP Cerqueira César
+351150 SP Cerquilho
+351160 SP Cesário Lange
+351170 SP Charqueada
+351190 SP Clementina
+351200 SP Colina
+351210 SP Colômbia
+351220 SP Conchal
+351230 SP Conchas
+351240 SP Cordeirópolis
+351250 SP Coroados
+351260 SP Coronel Macedo
+351270 SP Corumbataí
+351280 SP Cosmópolis
+351290 SP Cosmorama
+351300 SP Cotia
+351310 SP Cravinhos
+351320 SP Cristais Paulista
+351330 SP Cruzália
+351340 SP Cruzeiro
+351350 SP Cubatão
+351360 SP Cunha
+351370 SP Descalvado
+351380 SP Diadema
+351385 SP Dirce Reis
+351390 SP Divinolândia
+351400 SP Dobrada
+351410 SP Dois Córregos
+351420 SP Dolcinópolis
+351430 SP Dourado
+351440 SP Dracena
+351450 SP Duartina
+351460 SP Dumont
+351470 SP Echaporã
+351480 SP Eldorado
+351490 SP Elias Fausto
+351492 SP Elisiário
+351495 SP Embaúba
+351500 SP Embu das Artes
+351510 SP Embu-Guaçu
+351512 SP Emilianópolis
+351515 SP Engenheiro Coelho
+351518 SP Espírito Santo do Pinhal
+351519 SP Espírito Santo do Turvo
+351520 SP Estrela d`Oeste
+351530 SP Estrela do Norte
+351535 SP Euclides da Cunha Paulista
+351540 SP Fartura
+351550 SP Fernandópolis
+351560 SP Fernando Prestes
+351565 SP Fernão
+351570 SP Ferraz de Vasconcelos
+351580 SP Flora Rica
+351590 SP Floreal
+351600 SP Flórida Paulista
+351610 SP Florínia
+351620 SP Franca
+351630 SP Francisco Morato
+351640 SP Franco da Rocha
+351650 SP Gabriel Monteiro
+351660 SP Gália
+351670 SP Garça
+351680 SP Gastão Vidigal
+351685 SP Gavião Peixoto
+351690 SP General Salgado
+351700 SP Getulina
+351710 SP Glicério
+351720 SP Guaiçara
+351730 SP Guaimbê
+351740 SP Guaíra
+351750 SP Guapiaçu
+351760 SP Guapiara
+351770 SP Guará
+351780 SP Guaraçaí
+351790 SP Guaraci
+351800 SP Guarani d`Oeste
+351810 SP Guarantã
+351820 SP Guararapes
+351830 SP Guararema
+351840 SP Guaratinguetá
+351850 SP Guareí
+351860 SP Guariba
+351870 SP Guarujá
+351880 SP Guarulhos
+351885 SP Guatapará
+351890 SP Guzolândia
+351900 SP Herculândia
+351905 SP Holambra
+351907 SP Hortolândia
+351910 SP Iacanga
+351920 SP Iacri
+351925 SP Iaras
+351930 SP Ibaté
+351940 SP Ibirá
+351950 SP Ibirarema
+351960 SP Ibitinga
+351970 SP Ibiúna
+351980 SP Icém
+351990 SP Iepê
+352000 SP Igaraçu do Tietê
+352010 SP Igarapava
+352020 SP Igaratá
+352030 SP Iguape
+352040 SP Ilhabela
+352042 SP Ilha Comprida
+352044 SP Ilha Solteira
+352050 SP Indaiatuba
+352060 SP Indiana
+352070 SP Indiaporã
+352080 SP Inúbia Paulista
+352090 SP Ipaussu
+352100 SP Iperó
+352110 SP Ipeúna
+352115 SP Ipiguá
+352120 SP Iporanga
+352130 SP Ipuã
+352140 SP Iracemápolis
+352150 SP Irapuã
+352160 SP Irapuru
+352170 SP Itaberá
+352180 SP Itaí
+352190 SP Itajobi
+352200 SP Itaju
+352210 SP Itanhaém
+352215 SP Itaóca
+352220 SP Itapecerica da Serra
+352230 SP Itapetininga
+352240 SP Itapeva
+352250 SP Itapevi
+352260 SP Itapira
+352265 SP Itapirapuã Paulista
+352270 SP Itápolis
+352280 SP Itaporanga
+352290 SP Itapuí
+352300 SP Itapura
+352310 SP Itaquaquecetuba
+352320 SP Itararé
+352330 SP Itariri
+352340 SP Itatiba
+352350 SP Itatinga
+352360 SP Itirapina
+352370 SP Itirapuã
+352380 SP Itobi
+352390 SP Itu
+352400 SP Itupeva
+352410 SP Ituverava
+352420 SP Jaborandi
+352430 SP Jaboticabal
+352440 SP Jacareí
+352450 SP Jaci
+352460 SP Jacupiranga
+352470 SP Jaguariúna
+352480 SP Jales
+352490 SP Jambeiro
+352500 SP Jandira
+352510 SP Jardinópolis
+352520 SP Jarinu
+352530 SP Jaú
+352540 SP Jeriquara
+352550 SP Joanópolis
+352560 SP João Ramalho
+352570 SP José Bonifácio
+352580 SP Júlio Mesquita
+352585 SP Jumirim
+352590 SP Jundiaí
+352600 SP Junqueirópolis
+352610 SP Juquiá
+352620 SP Juquitiba
+352630 SP Lagoinha
+352640 SP Laranjal Paulista
+352650 SP Lavínia
+352660 SP Lavrinhas
+352670 SP Leme
+352680 SP Lençóis Paulista
+352690 SP Limeira
+352700 SP Lindóia
+352710 SP Lins
+352720 SP Lorena
+352725 SP Lourdes
+352730 SP Louveira
+352740 SP Lucélia
+352750 SP Lucianópolis
+352760 SP Luís Antônio
+352770 SP Luiziânia
+352780 SP Lupércio
+352790 SP Lutécia
+352800 SP Macatuba
+352810 SP Macaubal
+352820 SP Macedônia
+352830 SP Magda
+352840 SP Mairinque
+352850 SP Mairiporã
+352860 SP Manduri
+352870 SP Marabá Paulista
+352880 SP Maracaí
+352885 SP Marapoama
+352890 SP Mariápolis
+352900 SP Marília
+352910 SP Marinópolis
+352920 SP Martinópolis
+352930 SP Matão
+352940 SP Mauá
+352950 SP Mendonça
+352960 SP Meridiano
+352965 SP Mesópolis
+352970 SP Miguelópolis
+352980 SP Mineiros do Tietê
+352990 SP Miracatu
+353000 SP Mira Estrela
+353010 SP Mirandópolis
+353020 SP Mirante do Paranapanema
+353030 SP Mirassol
+353040 SP Mirassolândia
+353050 SP Mococa
+353060 SP Mogi das Cruzes
+353070 SP Mogi Guaçu
+353080 SP Moji Mirim
+353090 SP Mombuca
+353100 SP Monções
+353110 SP Mongaguá
+353120 SP Monte Alegre do Sul
+353130 SP Monte Alto
+353140 SP Monte Aprazível
+353150 SP Monte Azul Paulista
+353160 SP Monte Castelo
+353170 SP Monteiro Lobato
+353180 SP Monte Mor
+353190 SP Morro Agudo
+353200 SP Morungaba
+353205 SP Motuca
+353210 SP Murutinga do Sul
+353215 SP Nantes
+353220 SP Narandiba
+353230 SP Natividade da Serra
+353240 SP Nazaré Paulista
+353250 SP Neves Paulista
+353260 SP Nhandeara
+353270 SP Nipoã
+353280 SP Nova Aliança
+353282 SP Nova Campina
+353284 SP Nova Canaã Paulista
+353286 SP Nova Castilho
+353290 SP Nova Europa
+353300 SP Nova Granada
+353310 SP Nova Guataporanga
+353320 SP Nova Independência
+353325 SP Novais
+353330 SP Nova Luzitânia
+353340 SP Nova Odessa
+353350 SP Novo Horizonte
+353360 SP Nuporanga
+353370 SP Ocauçu
+353380 SP Óleo
+353390 SP Olímpia
+353400 SP Onda Verde
+353410 SP Oriente
+353420 SP Orindiúva
+353430 SP Orlândia
+353440 SP Osasco
+353450 SP Oscar Bressane
+353460 SP Osvaldo Cruz
+353470 SP Ourinhos
+353475 SP Ouroeste
+353480 SP Ouro Verde
+353490 SP Pacaembu
+353500 SP Palestina
+353510 SP Palmares Paulista
+353520 SP Palmeira d`Oeste
+353530 SP Palmital
+353540 SP Panorama
+353550 SP Paraguaçu Paulista
+353560 SP Paraibuna
+353570 SP Paraíso
+353580 SP Paranapanema
+353590 SP Paranapuã
+353600 SP Parapuã
+353610 SP Pardinho
+353620 SP Pariquera-Açu
+353625 SP Parisi
+353630 SP Patrocínio Paulista
+353640 SP Paulicéia
+353650 SP Paulínia
+353657 SP Paulistânia
+353660 SP Paulo de Faria
+353670 SP Pederneiras
+353680 SP Pedra Bela
+353690 SP Pedranópolis
+353700 SP Pedregulho
+353710 SP Pedreira
+353715 SP Pedrinhas Paulista
+353720 SP Pedro de Toledo
+353730 SP Penápolis
+353740 SP Pereira Barreto
+353750 SP Pereiras
+353760 SP Peruíbe
+353770 SP Piacatu
+353780 SP Piedade
+353790 SP Pilar do Sul
+353800 SP Pindamonhangaba
+353810 SP Pindorama
+353820 SP Pinhalzinho
+353830 SP Piquerobi
+353850 SP Piquete
+353860 SP Piracaia
+353870 SP Piracicaba
+353880 SP Piraju
+353890 SP Pirajuí
+353900 SP Pirangi
+353910 SP Pirapora do Bom Jesus
+353920 SP Pirapozinho
+353930 SP Pirassununga
+353940 SP Piratininga
+353950 SP Pitangueiras
+353960 SP Planalto
+353970 SP Platina
+353980 SP Poá
+353990 SP Poloni
+354000 SP Pompéia
+354010 SP Pongaí
+354020 SP Pontal
+354025 SP Pontalinda
+354030 SP Pontes Gestal
+354040 SP Populina
+354050 SP Porangaba
+354060 SP Porto Feliz
+354070 SP Porto Ferreira
+354075 SP Potim
+354080 SP Potirendaba
+354085 SP Pracinha
+354090 SP Pradópolis
+354100 SP Praia Grande
+354105 SP Pratânia
+354110 SP Presidente Alves
+354120 SP Presidente Bernardes
+354130 SP Presidente Epitácio
+354140 SP Presidente Prudente
+354150 SP Presidente Venceslau
+354160 SP Promissão
+354165 SP Quadra
+354170 SP Quatá
+354180 SP Queiroz
+354190 SP Queluz
+354200 SP Quintana
+354210 SP Rafard
+354220 SP Rancharia
+354230 SP Redenção da Serra
+354240 SP Regente Feijó
+354250 SP Reginópolis
+354260 SP Registro
+354270 SP Restinga
+354280 SP Ribeira
+354290 SP Ribeirão Bonito
+354300 SP Ribeirão Branco
+354310 SP Ribeirão Corrente
+354320 SP Ribeirão do Sul
+354323 SP Ribeirão dos Índios
+354325 SP Ribeirão Grande
+354330 SP Ribeirão Pires
+354340 SP Ribeirão Preto
+354350 SP Riversul
+354360 SP Rifaina
+354370 SP Rincão
+354380 SP Rinópolis
+354390 SP Rio Claro
+354400 SP Rio das Pedras
+354410 SP Rio Grande da Serra
+354420 SP Riolândia
+354425 SP Rosana
+354430 SP Roseira
+354440 SP Rubiácea
+354450 SP Rubinéia
+354460 SP Sabino
+354470 SP Sagres
+354480 SP Sales
+354490 SP Sales Oliveira
+354500 SP Salesópolis
+354510 SP Salmourão
+354515 SP Saltinho
+354520 SP Salto
+354530 SP Salto de Pirapora
+354540 SP Salto Grande
+354550 SP Sandovalina
+354560 SP Santa Adélia
+354570 SP Santa Albertina
+354580 SP Santa Bárbara d`Oeste
+354600 SP Santa Branca
+354610 SP Santa Clara d`Oeste
+354620 SP Santa Cruz da Conceição
+354625 SP Santa Cruz da Esperança
+354630 SP Santa Cruz das Palmeiras
+354640 SP Santa Cruz do Rio Pardo
+354650 SP Santa Ernestina
+354660 SP Santa Fé do Sul
+354670 SP Santa Gertrudes
+354680 SP Santa Isabel
+354690 SP Santa Lúcia
+354700 SP Santa Maria da Serra
+354710 SP Santa Mercedes
+354720 SP Santana da Ponte Pensa
+354730 SP Santana de Parnaíba
+354740 SP Santa Rita d`Oeste
+354750 SP Santa Rita do Passa Quatro
+354760 SP Santa Rosa de Viterbo
+354765 SP Santa Salete
+354770 SP Santo Anastácio
+354780 SP Santo André
+354790 SP Santo Antônio da Alegria
+354800 SP Santo Antônio de Posse
+354805 SP Santo Antônio do Aracanguá
+354810 SP Santo Antônio do Jardim
+354820 SP Santo Antônio do Pinhal
+354830 SP Santo Expedito
+354840 SP Santópolis do Aguapeí
+354850 SP Santos
+354860 SP São Bento do Sapucaí
+354870 SP São Bernardo do Campo
+354880 SP São Caetano do Sul
+354890 SP São Carlos
+354900 SP São Francisco
+354910 SP São João da Boa Vista
+354920 SP São João das Duas Pontes
+354925 SP São João de Iracema
+354930 SP São João do Pau d`Alho
+354940 SP São Joaquim da Barra
+354950 SP São José da Bela Vista
+354960 SP São José do Barreiro
+354970 SP São José do Rio Pardo
+354980 SP São José do Rio Preto
+354990 SP São José dos Campos
+354995 SP São Lourenço da Serra
+355000 SP São Luís do Paraitinga
+355010 SP São Manuel
+355020 SP São Miguel Arcanjo
+355030 SP São Paulo
+355040 SP São Pedro
+355050 SP São Pedro do Turvo
+355060 SP São Roque
+355070 SP São Sebastião
+355080 SP São Sebastião da Grama
+355090 SP São Simão
+355100 SP São Vicente
+355110 SP Sarapuí
+355120 SP Sarutaiá
+355130 SP Sebastianópolis do Sul
+355140 SP Serra Azul
+355150 SP Serrana
+355160 SP Serra Negra
+355170 SP Sertãozinho
+355180 SP Sete Barras
+355190 SP Severínia
+355200 SP Silveiras
+355210 SP Socorro
+355220 SP Sorocaba
+355230 SP Sud Mennucci
+355240 SP Sumaré
+355250 SP Suzano
+355255 SP Suzanápolis
+355260 SP Tabapuã
+355270 SP Tabatinga
+355280 SP Taboão da Serra
+355290 SP Taciba
+355300 SP Taguaí
+355310 SP Taiaçu
+355320 SP Taiúva
+355330 SP Tambaú
+355340 SP Tanabi
+355350 SP Tapiraí
+355360 SP Tapiratiba
+355365 SP Taquaral
+355370 SP Taquaritinga
+355380 SP Taquarituba
+355385 SP Taquarivaí
+355390 SP Tarabai
+355395 SP Tarumã
+355400 SP Tatuí
+355410 SP Taubaté
+355420 SP Tejupá
+355430 SP Teodoro Sampaio
+355440 SP Terra Roxa
+355450 SP Tietê
+355460 SP Timburi
+355465 SP Torre de Pedra
+355470 SP Torrinha
+355475 SP Trabiju
+355480 SP Tremembé
+355490 SP Três Fronteiras
+355495 SP Tuiuti
+355500 SP Tupã
+355510 SP Tupi Paulista
+355520 SP Turiúba
+355530 SP Turmalina
+355535 SP Ubarana
+355540 SP Ubatuba
+355550 SP Ubirajara
+355560 SP Uchoa
+355570 SP União Paulista
+355580 SP Urânia
+355590 SP Uru
+355600 SP Urupês
+355610 SP Valentim Gentil
+355620 SP Valinhos
+355630 SP Valparaíso
+355635 SP Vargem
+355640 SP Vargem Grande do Sul
+355645 SP Vargem Grande Paulista
+355650 SP Várzea Paulista
+355660 SP Vera Cruz
+355670 SP Vinhedo
+355680 SP Viradouro
+355690 SP Vista Alegre do Alto
+355695 SP Vitória Brasil
+355700 SP Votorantim
+355710 SP Votuporanga
+355715 SP Zacarias
+355720 SP Chavantes
+355730 SP Estiva Gerbi
+410010 PR Abatiá
+410020 PR Adrianópolis
+410030 PR Agudos do Sul
+410040 PR Almirante Tamandaré
+410045 PR Altamira do Paraná
+410050 PR Altônia
+410060 PR Alto Paraná
+410070 PR Alto Piquiri
+410080 PR Alvorada do Sul
+410090 PR Amaporã
+410100 PR Ampére
+410105 PR Anahy
+410110 PR Andirá
+410115 PR Ângulo
+410120 PR Antonina
+410130 PR Antônio Olinto
+410140 PR Apucarana
+410150 PR Arapongas
+410160 PR Arapoti
+410165 PR Arapuã
+410170 PR Araruna
+410180 PR Araucária
+410185 PR Ariranha do Ivaí
+410190 PR Assaí
+410200 PR Assis Chateaubriand
+410210 PR Astorga
+410220 PR Atalaia
+410230 PR Balsa Nova
+410240 PR Bandeirantes
+410250 PR Barbosa Ferraz
+410260 PR Barracão
+410270 PR Barra do Jacaré
+410275 PR Bela Vista da Caroba
+410280 PR Bela Vista do Paraíso
+410290 PR Bituruna
+410300 PR Boa Esperança
+410302 PR Boa Esperança do Iguaçu
+410304 PR Boa Ventura de São Roque
+410305 PR Boa Vista da Aparecida
+410310 PR Bocaiúva do Sul
+410315 PR Bom Jesus do Sul
+410320 PR Bom Sucesso
+410322 PR Bom Sucesso do Sul
+410330 PR Borrazópolis
+410335 PR Braganey
+410337 PR Brasilândia do Sul
+410340 PR Cafeara
+410345 PR Cafelândia
+410347 PR Cafezal do Sul
+410350 PR Califórnia
+410360 PR Cambará
+410370 PR Cambé
+410380 PR Cambira
+410390 PR Campina da Lagoa
+410395 PR Campina do Simão
+410400 PR Campina Grande do Sul
+410405 PR Campo Bonito
+410410 PR Campo do Tenente
+410420 PR Campo Largo
+410425 PR Campo Magro
+410430 PR Campo Mourão
+410440 PR Cândido de Abreu
+410442 PR Candói
+410445 PR Cantagalo
+410450 PR Capanema
+410460 PR Capitão Leônidas Marques
+410465 PR Carambeí
+410470 PR Carlópolis
+410480 PR Cascavel
+410490 PR Castro
+410500 PR Catanduvas
+410510 PR Centenário do Sul
+410520 PR Cerro Azul
+410530 PR Céu Azul
+410540 PR Chopinzinho
+410550 PR Cianorte
+410560 PR Cidade Gaúcha
+410570 PR Clevelândia
+410580 PR Colombo
+410590 PR Colorado
+410600 PR Congonhinhas
+410610 PR Conselheiro Mairinck
+410620 PR Contenda
+410630 PR Corbélia
+410640 PR Cornélio Procópio
+410645 PR Coronel Domingos Soares
+410650 PR Coronel Vivida
+410655 PR Corumbataí do Sul
+410657 PR Cruzeiro do Iguaçu
+410660 PR Cruzeiro do Oeste
+410670 PR Cruzeiro do Sul
+410680 PR Cruz Machado
+410685 PR Cruzmaltina
+410690 PR Curitiba
+410700 PR Curiúva
+410710 PR Diamante do Norte
+410712 PR Diamante do Sul
+410715 PR Diamante d`Oeste
+410720 PR Dois Vizinhos
+410725 PR Douradina
+410730 PR Doutor Camargo
+410740 PR Enéas Marques
+410750 PR Engenheiro Beltrão
+410752 PR Esperança Nova
+410753 PR Entre Rios do Oeste
+410754 PR Espigão Alto do Iguaçu
+410755 PR Farol
+410760 PR Faxinal
+410765 PR Fazenda Rio Grande
+410770 PR Fênix
+410773 PR Fernandes Pinheiro
+410775 PR Figueira
+410780 PR Floraí
+410785 PR Flor da Serra do Sul
+410790 PR Floresta
+410800 PR Florestópolis
+410810 PR Flórida
+410820 PR Formosa do Oeste
+410830 PR Foz do Iguaçu
+410832 PR Francisco Alves
+410840 PR Francisco Beltrão
+410845 PR Foz do Jordão
+410850 PR General Carneiro
+410855 PR Godoy Moreira
+410860 PR Goioerê
+410865 PR Goioxim
+410870 PR Grandes Rios
+410880 PR Guaíra
+410890 PR Guairaçá
+410895 PR Guamiranga
+410900 PR Guapirama
+410910 PR Guaporema
+410920 PR Guaraci
+410930 PR Guaraniaçu
+410940 PR Guarapuava
+410950 PR Guaraqueçaba
+410960 PR Guaratuba
+410965 PR Honório Serpa
+410970 PR Ibaiti
+410975 PR Ibema
+410980 PR Ibiporã
+410990 PR Icaraíma
+411000 PR Iguaraçu
+411005 PR Iguatu
+411007 PR Imbaú
+411010 PR Imbituva
+411020 PR Inácio Martins
+411030 PR Inajá
+411040 PR Indianópolis
+411050 PR Ipiranga
+411060 PR Iporã
+411065 PR Iracema do Oeste
+411070 PR Irati
+411080 PR Iretama
+411090 PR Itaguajé
+411095 PR Itaipulândia
+411100 PR Itambaracá
+411110 PR Itambé
+411120 PR Itapejara d`Oeste
+411125 PR Itaperuçu
+411130 PR Itaúna do Sul
+411140 PR Ivaí
+411150 PR Ivaiporã
+411155 PR Ivaté
+411160 PR Ivatuba
+411170 PR Jaboti
+411180 PR Jacarezinho
+411190 PR Jaguapitã
+411200 PR Jaguariaíva
+411210 PR Jandaia do Sul
+411220 PR Janiópolis
+411230 PR Japira
+411240 PR Japurá
+411250 PR Jardim Alegre
+411260 PR Jardim Olinda
+411270 PR Jataizinho
+411275 PR Jesuítas
+411280 PR Joaquim Távora
+411290 PR Jundiaí do Sul
+411295 PR Juranda
+411300 PR Jussara
+411310 PR Kaloré
+411320 PR Lapa
+411325 PR Laranjal
+411330 PR Laranjeiras do Sul
+411340 PR Leópolis
+411342 PR Lidianópolis
+411345 PR Lindoeste
+411350 PR Loanda
+411360 PR Lobato
+411370 PR Londrina
+411373 PR Luiziana
+411375 PR Lunardelli
+411380 PR Lupionópolis
+411390 PR Mallet
+411400 PR Mamborê
+411410 PR Mandaguaçu
+411420 PR Mandaguari
+411430 PR Mandirituba
+411435 PR Manfrinópolis
+411440 PR Mangueirinha
+411450 PR Manoel Ribas
+411460 PR Marechal Cândido Rondon
+411470 PR Maria Helena
+411480 PR Marialva
+411490 PR Marilândia do Sul
+411500 PR Marilena
+411510 PR Mariluz
+411520 PR Maringá
+411530 PR Mariópolis
+411535 PR Maripá
+411540 PR Marmeleiro
+411545 PR Marquinho
+411550 PR Marumbi
+411560 PR Matelândia
+411570 PR Matinhos
+411573 PR Mato Rico
+411575 PR Mauá da Serra
+411580 PR Medianeira
+411585 PR Mercedes
+411590 PR Mirador
+411600 PR Miraselva
+411605 PR Missal
+411610 PR Moreira Sales
+411620 PR Morretes
+411630 PR Munhoz de Melo
+411640 PR Nossa Senhora das Graças
+411650 PR Nova Aliança do Ivaí
+411660 PR Nova América da Colina
+411670 PR Nova Aurora
+411680 PR Nova Cantu
+411690 PR Nova Esperança
+411695 PR Nova Esperança do Sudoeste
+411700 PR Nova Fátima
+411705 PR Nova Laranjeiras
+411710 PR Nova Londrina
+411720 PR Nova Olímpia
+411721 PR Nova Santa Bárbara
+411722 PR Nova Santa Rosa
+411725 PR Nova Prata do Iguaçu
+411727 PR Nova Tebas
+411729 PR Novo Itacolomi
+411730 PR Ortigueira
+411740 PR Ourizona
+411745 PR Ouro Verde do Oeste
+411750 PR Paiçandu
+411760 PR Palmas
+411770 PR Palmeira
+411780 PR Palmital
+411790 PR Palotina
+411800 PR Paraíso do Norte
+411810 PR Paranacity
+411820 PR Paranaguá
+411830 PR Paranapoema
+411840 PR Paranavaí
+411845 PR Pato Bragado
+411850 PR Pato Branco
+411860 PR Paula Freitas
+411870 PR Paulo Frontin
+411880 PR Peabiru
+411885 PR Perobal
+411890 PR Pérola
+411900 PR Pérola d`Oeste
+411910 PR Piên
+411915 PR Pinhais
+411920 PR Pinhalão
+411925 PR Pinhal de São Bento
+411930 PR Pinhão
+411940 PR Piraí do Sul
+411950 PR Piraquara
+411960 PR Pitanga
+411965 PR Pitangueiras
+411970 PR Planaltina do Paraná
+411980 PR Planalto
+411990 PR Ponta Grossa
+411995 PR Pontal do Paraná
+412000 PR Porecatu
+412010 PR Porto Amazonas
+412015 PR Porto Barreiro
+412020 PR Porto Rico
+412030 PR Porto Vitória
+412033 PR Prado Ferreira
+412035 PR Pranchita
+412040 PR Presidente Castelo Branco
+412050 PR Primeiro de Maio
+412060 PR Prudentópolis
+412065 PR Quarto Centenário
+412070 PR Quatiguá
+412080 PR Quatro Barras
+412085 PR Quatro Pontes
+412090 PR Quedas do Iguaçu
+412100 PR Querência do Norte
+412110 PR Quinta do Sol
+412120 PR Quitandinha
+412125 PR Ramilândia
+412130 PR Rancho Alegre
+412135 PR Rancho Alegre d`Oeste
+412140 PR Realeza
+412150 PR Rebouças
+412160 PR Renascença
+412170 PR Reserva
+412175 PR Reserva do Iguaçu
+412180 PR Ribeirão Claro
+412190 PR Ribeirão do Pinhal
+412200 PR Rio Azul
+412210 PR Rio Bom
+412215 PR Rio Bonito do Iguaçu
+412217 PR Rio Branco do Ivaí
+412220 PR Rio Branco do Sul
+412230 PR Rio Negro
+412240 PR Rolândia
+412250 PR Roncador
+412260 PR Rondon
+412265 PR Rosário do Ivaí
+412270 PR Sabáudia
+412280 PR Salgado Filho
+412290 PR Salto do Itararé
+412300 PR Salto do Lontra
+412310 PR Santa Amélia
+412320 PR Santa Cecília do Pavão
+412330 PR Santa Cruz de Monte Castelo
+412340 PR Santa Fé
+412350 PR Santa Helena
+412360 PR Santa Inês
+412370 PR Santa Isabel do Ivaí
+412380 PR Santa Izabel do Oeste
+412382 PR Santa Lúcia
+412385 PR Santa Maria do Oeste
+412390 PR Santa Mariana
+412395 PR Santa Mônica
+412400 PR Santana do Itararé
+412402 PR Santa Tereza do Oeste
+412405 PR Santa Terezinha de Itaipu
+412410 PR Santo Antônio da Platina
+412420 PR Santo Antônio do Caiuá
+412430 PR Santo Antônio do Paraíso
+412440 PR Santo Antônio do Sudoeste
+412450 PR Santo Inácio
+412460 PR São Carlos do Ivaí
+412470 PR São Jerônimo da Serra
+412480 PR São João
+412490 PR São João do Caiuá
+412500 PR São João do Ivaí
+412510 PR São João do Triunfo
+412520 PR São Jorge d`Oeste
+412530 PR São Jorge do Ivaí
+412535 PR São Jorge do Patrocínio
+412540 PR São José da Boa Vista
+412545 PR São José das Palmeiras
+412550 PR São José dos Pinhais
+412555 PR São Manoel do Paraná
+412560 PR São Mateus do Sul
+412570 PR São Miguel do Iguaçu
+412575 PR São Pedro do Iguaçu
+412580 PR São Pedro do Ivaí
+412590 PR São Pedro do Paraná
+412600 PR São Sebastião da Amoreira
+412610 PR São Tomé
+412620 PR Sapopema
+412625 PR Sarandi
+412627 PR Saudade do Iguaçu
+412630 PR Sengés
+412635 PR Serranópolis do Iguaçu
+412640 PR Sertaneja
+412650 PR Sertanópolis
+412660 PR Siqueira Campos
+412665 PR Sulina
+412667 PR Tamarana
+412670 PR Tamboara
+412680 PR Tapejara
+412690 PR Tapira
+412700 PR Teixeira Soares
+412710 PR Telêmaco Borba
+412720 PR Terra Boa
+412730 PR Terra Rica
+412740 PR Terra Roxa
+412750 PR Tibagi
+412760 PR Tijucas do Sul
+412770 PR Toledo
+412780 PR Tomazina
+412785 PR Três Barras do Paraná
+412788 PR Tunas do Paraná
+412790 PR Tuneiras do Oeste
+412795 PR Tupãssi
+412796 PR Turvo
+412800 PR Ubiratã
+412810 PR Umuarama
+412820 PR União da Vitória
+412830 PR Uniflor
+412840 PR Uraí
+412850 PR Wenceslau Braz
+412853 PR Ventania
+412855 PR Vera Cruz do Oeste
+412860 PR Verê
+412862 PR Alto Paraíso
+412863 PR Doutor Ulysses
+412865 PR Virmond
+412870 PR Vitorino
+412880 PR Xambrê
+431413 RS Paulo Bento
+420005 SC Abdon Batista
+420010 SC Abelardo Luz
+420020 SC Agrolândia
+420030 SC Agronômica
+420040 SC Água Doce
+420050 SC Águas de Chapecó
+420055 SC Águas Frias
+420060 SC Águas Mornas
+420070 SC Alfredo Wagner
+420075 SC Alto Bela Vista
+420080 SC Anchieta
+420090 SC Angelina
+420100 SC Anita Garibaldi
+420110 SC Anitápolis
+420120 SC Antônio Carlos
+420125 SC Apiúna
+420127 SC Arabutã
+420130 SC Araquari
+420140 SC Araranguá
+420150 SC Armazém
+420160 SC Arroio Trinta
+420165 SC Arvoredo
+420170 SC Ascurra
+420180 SC Atalanta
+420190 SC Aurora
+420195 SC Balneário Arroio do Silva
+420200 SC Balneário Camboriú
+420205 SC Balneário Barra do Sul
+420207 SC Balneário Gaivota
+420208 SC Bandeirante
+420209 SC Barra Bonita
+420210 SC Barra Velha
+420213 SC Bela Vista do Toldo
+420215 SC Belmonte
+420220 SC Benedito Novo
+420230 SC Biguaçu
+420240 SC Blumenau
+420243 SC Bocaina do Sul
+420245 SC Bombinhas
+420250 SC Bom Jardim da Serra
+420253 SC Bom Jesus
+420257 SC Bom Jesus do Oeste
+420260 SC Bom Retiro
+420270 SC Botuverá
+420280 SC Braço do Norte
+420285 SC Braço do Trombudo
+420287 SC Brunópolis
+420290 SC Brusque
+420300 SC Caçador
+420310 SC Caibi
+420315 SC Calmon
+420320 SC Camboriú
+420325 SC Capão Alto
+420330 SC Campo Alegre
+420340 SC Campo Belo do Sul
+420350 SC Campo Erê
+420360 SC Campos Novos
+420370 SC Canelinha
+420380 SC Canoinhas
+420390 SC Capinzal
+420395 SC Capivari de Baixo
+420400 SC Catanduvas
+420410 SC Caxambu do Sul
+420415 SC Celso Ramos
+420417 SC Cerro Negro
+420419 SC Chapadão do Lageado
+420420 SC Chapecó
+420425 SC Cocal do Sul
+420430 SC Concórdia
+420435 SC Cordilheira Alta
+420440 SC Coronel Freitas
+420445 SC Coronel Martins
+420450 SC Corupá
+420455 SC Correia Pinto
+420460 SC Criciúma
+420470 SC Cunha Porã
+420475 SC Cunhataí
+420480 SC Curitibanos
+420490 SC Descanso
+420500 SC Dionísio Cerqueira
+420510 SC Dona Emma
+420515 SC Doutor Pedrinho
+420517 SC Entre Rios
+420519 SC Ermo
+420520 SC Erval Velho
+420530 SC Faxinal dos Guedes
+420535 SC Flor do Sertão
+420540 SC Florianópolis
+420543 SC Formosa do Sul
+420545 SC Forquilhinha
+420550 SC Fraiburgo
+420555 SC Frei Rogério
+420560 SC Galvão
+420570 SC Garopaba
+420580 SC Garuva
+420590 SC Gaspar
+420600 SC Governador Celso Ramos
+420610 SC Grão Pará
+420620 SC Gravatal
+420630 SC Guabiruba
+420640 SC Guaraciaba
+420650 SC Guaramirim
+420660 SC Guarujá do Sul
+420665 SC Guatambú
+420670 SC Herval d`Oeste
+420675 SC Ibiam
+420680 SC Ibicaré
+420690 SC Ibirama
+420700 SC Içara
+420710 SC Ilhota
+420720 SC Imaruí
+420730 SC Imbituba
+420740 SC Imbuia
+420750 SC Indaial
+420757 SC Iomerê
+420760 SC Ipira
+420765 SC Iporã do Oeste
+420768 SC Ipuaçu
+420770 SC Ipumirim
+420775 SC Iraceminha
+420780 SC Irani
+420785 SC Irati
+420790 SC Irineópolis
+420800 SC Itá
+420810 SC Itaiópolis
+420820 SC Itajaí
+420830 SC Itapema
+420840 SC Itapiranga
+420845 SC Itapoá
+420850 SC Ituporanga
+420860 SC Jaborá
+420870 SC Jacinto Machado
+420880 SC Jaguaruna
+420890 SC Jaraguá do Sul
+420895 SC Jardinópolis
+420900 SC Joaçaba
+420910 SC Joinville
+420915 SC José Boiteux
+420917 SC Jupiá
+420920 SC Lacerdópolis
+420930 SC Lages
+420940 SC Laguna
+420945 SC Lajeado Grande
+420950 SC Laurentino
+420960 SC Lauro Muller
+420970 SC Lebon Régis
+420980 SC Leoberto Leal
+420985 SC Lindóia do Sul
+420990 SC Lontras
+421000 SC Luiz Alves
+421003 SC Luzerna
+421005 SC Macieira
+421010 SC Mafra
+421020 SC Major Gercino
+421030 SC Major Vieira
+421040 SC Maracajá
+421050 SC Maravilha
+421055 SC Marema
+421060 SC Massaranduba
+421070 SC Matos Costa
+421080 SC Meleiro
+421085 SC Mirim Doce
+421090 SC Modelo
+421100 SC Mondaí
+421105 SC Monte Carlo
+421110 SC Monte Castelo
+421120 SC Morro da Fumaça
+421125 SC Morro Grande
+421130 SC Navegantes
+421140 SC Nova Erechim
+421145 SC Nova Itaberaba
+421150 SC Nova Trento
+421160 SC Nova Veneza
+421165 SC Novo Horizonte
+421170 SC Orleans
+421175 SC Otacílio Costa
+421180 SC Ouro
+421185 SC Ouro Verde
+421187 SC Paial
+421189 SC Painel
+421190 SC Palhoça
+421200 SC Palma Sola
+421205 SC Palmeira
+421210 SC Palmitos
+421220 SC Papanduva
+421223 SC Paraíso
+421225 SC Passo de Torres
+421227 SC Passos Maia
+421230 SC Paulo Lopes
+421240 SC Pedras Grandes
+421250 SC Penha
+421260 SC Peritiba
+421270 SC Petrolândia
+421280 SC Balneário Piçarras
+421290 SC Pinhalzinho
+421300 SC Pinheiro Preto
+421310 SC Piratuba
+421315 SC Planalto Alegre
+421320 SC Pomerode
+421330 SC Ponte Alta
+421335 SC Ponte Alta do Norte
+421340 SC Ponte Serrada
+421350 SC Porto Belo
+421360 SC Porto União
+421370 SC Pouso Redondo
+421380 SC Praia Grande
+421390 SC Presidente Castello Branco
+421400 SC Presidente Getúlio
+421410 SC Presidente Nereu
+421415 SC Princesa
+421420 SC Quilombo
+421430 SC Rancho Queimado
+421440 SC Rio das Antas
+421450 SC Rio do Campo
+421460 SC Rio do Oeste
+421470 SC Rio dos Cedros
+421480 SC Rio do Sul
+421490 SC Rio Fortuna
+421500 SC Rio Negrinho
+421505 SC Rio Rufino
+421507 SC Riqueza
+421510 SC Rodeio
+421520 SC Romelândia
+421530 SC Salete
+421535 SC Saltinho
+421540 SC Salto Veloso
+421545 SC Sangão
+421550 SC Santa Cecília
+421555 SC Santa Helena
+421560 SC Santa Rosa de Lima
+421565 SC Santa Rosa do Sul
+421567 SC Santa Terezinha
+421568 SC Santa Terezinha do Progresso
+421569 SC Santiago do Sul
+421570 SC Santo Amaro da Imperatriz
+421575 SC São Bernardino
+421580 SC São Bento do Sul
+421590 SC São Bonifácio
+421600 SC São Carlos
+421605 SC São Cristovão do Sul
+421610 SC São Domingos
+421620 SC São Francisco do Sul
+421625 SC São João do Oeste
+421630 SC São João Batista
+421635 SC São João do Itaperiú
+421640 SC São João do Sul
+421650 SC São Joaquim
+421660 SC São José
+421670 SC São José do Cedro
+421680 SC São José do Cerrito
+421690 SC São Lourenço do Oeste
+421700 SC São Ludgero
+421710 SC São Martinho
+421715 SC São Miguel da Boa Vista
+421720 SC São Miguel do Oeste
+421725 SC São Pedro de Alcântara
+421730 SC Saudades
+421740 SC Schroeder
+421750 SC Seara
+421755 SC Serra Alta
+421760 SC Siderópolis
+421770 SC Sombrio
+421775 SC Sul Brasil
+421780 SC Taió
+421790 SC Tangará
+421795 SC Tigrinhos
+421800 SC Tijucas
+421810 SC Timbé do Sul
+421820 SC Timbó
+421825 SC Timbó Grande
+421830 SC Três Barras
+421835 SC Treviso
+421840 SC Treze de Maio
+421850 SC Treze Tílias
+421860 SC Trombudo Central
+421870 SC Tubarão
+421875 SC Tunápolis
+421880 SC Turvo
+421885 SC União do Oeste
+421890 SC Urubici
+421895 SC Urupema
+421900 SC Urussanga
+421910 SC Vargeão
+421915 SC Vargem
+421917 SC Vargem Bonita
+421920 SC Vidal Ramos
+421930 SC Videira
+421935 SC Vitor Meireles
+421940 SC Witmarsum
+421950 SC Xanxerê
+421960 SC Xavantina
+421970 SC Xaxim
+421985 SC Zortéa
+430003 RS Aceguá
+430005 RS Água Santa
+430010 RS Agudo
+430020 RS Ajuricaba
+430030 RS Alecrim
+430040 RS Alegrete
+430045 RS Alegria
+430047 RS Almirante Tamandaré do Sul
+430050 RS Alpestre
+430055 RS Alto Alegre
+430057 RS Alto Feliz
+430060 RS Alvorada
+430063 RS Amaral Ferrador
+430064 RS Ametista do Sul
+430066 RS André da Rocha
+430070 RS Anta Gorda
+430080 RS Antônio Prado
+430085 RS Arambaré
+430087 RS Araricá
+430090 RS Aratiba
+430100 RS Arroio do Meio
+430105 RS Arroio do Sal
+430107 RS Arroio do Padre
+430110 RS Arroio dos Ratos
+430120 RS Arroio do Tigre
+430130 RS Arroio Grande
+430140 RS Arvorezinha
+430150 RS Augusto Pestana
+430155 RS Áurea
+430160 RS Bagé
+430163 RS Balneário Pinhal
+430165 RS Barão
+430170 RS Barão de Cotegipe
+430175 RS Barão do Triunfo
+430180 RS Barracão
+430185 RS Barra do Guarita
+430187 RS Barra do Quaraí
+430190 RS Barra do Ribeiro
+430192 RS Barra do Rio Azul
+430195 RS Barra Funda
+430200 RS Barros Cassal
+430205 RS Benjamin Constant do Sul
+430210 RS Bento Gonçalves
+430215 RS Boa Vista das Missões
+430220 RS Boa Vista do Buricá
+430222 RS Boa Vista do Cadeado
+430223 RS Boa Vista do Incra
+430225 RS Boa Vista do Sul
+430258 RS Bozano
+430230 RS Bom Jesus
+430235 RS Bom Princípio
+430237 RS Bom Progresso
+430240 RS Bom Retiro do Sul
+430245 RS Boqueirão do Leão
+430250 RS Bossoroca
+430260 RS Braga
+430265 RS Brochier
+430270 RS Butiá
+430280 RS Caçapava do Sul
+430290 RS Cacequi
+430300 RS Cachoeira do Sul
+430310 RS Cachoeirinha
+430320 RS Cacique Doble
+430330 RS Caibaté
+430340 RS Caiçara
+430350 RS Camaquã
+430355 RS Camargo
+430360 RS Cambará do Sul
+430367 RS Campestre da Serra
+430370 RS Campina das Missões
+430380 RS Campinas do Sul
+430390 RS Campo Bom
+430400 RS Campo Novo
+430410 RS Campos Borges
+430420 RS Candelária
+430430 RS Cândido Godói
+430435 RS Candiota
+430440 RS Canela
+430450 RS Canguçu
+430460 RS Canoas
+430461 RS Canudos do Vale
+430462 RS Capão Bonito do Sul
+430463 RS Capão da Canoa
+430465 RS Capão do Cipó
+430466 RS Capão do Leão
+430467 RS Capivari do Sul
+430468 RS Capela de Santana
+430469 RS Capitão
+430470 RS Carazinho
+430471 RS Caraá
+430480 RS Carlos Barbosa
+430485 RS Carlos Gomes
+430490 RS Casca
+430495 RS Caseiros
+430500 RS Catuípe
+430510 RS Caxias do Sul
+430511 RS Centenário
+430512 RS Cerrito
+430513 RS Cerro Branco
+430515 RS Cerro Grande
+430517 RS Cerro Grande do Sul
+430520 RS Cerro Largo
+430530 RS Chapada
+430535 RS Charqueadas
+430537 RS Charrua
+430540 RS Chiapetta
+430543 RS Chuí
+430544 RS Chuvisca
+430545 RS Cidreira
+430550 RS Ciríaco
+430558 RS Colinas
+430560 RS Colorado
+430570 RS Condor
+430580 RS Constantina
+430583 RS Coqueiro Baixo
+430585 RS Coqueiros do Sul
+430587 RS Coronel Barros
+430590 RS Coronel Bicaco
+430593 RS Coronel Pilar
+430595 RS Cotiporã
+430597 RS Coxilha
+430600 RS Crissiumal
+430605 RS Cristal
+430607 RS Cristal do Sul
+430610 RS Cruz Alta
+430613 RS Cruzaltense
+430620 RS Cruzeiro do Sul
+430630 RS David Canabarro
+430632 RS Derrubadas
+430635 RS Dezesseis de Novembro
+430637 RS Dilermando de Aguiar
+430640 RS Dois Irmãos
+430642 RS Dois Irmãos das Missões
+430645 RS Dois Lajeados
+430650 RS Dom Feliciano
+430655 RS Dom Pedro de Alcântara
+430660 RS Dom Pedrito
+430670 RS Dona Francisca
+430673 RS Doutor Maurício Cardoso
+430675 RS Doutor Ricardo
+430676 RS Eldorado do Sul
+430680 RS Encantado
+430690 RS Encruzilhada do Sul
+430692 RS Engenho Velho
+430693 RS Entre-Ijuís
+430695 RS Entre Rios do Sul
+430697 RS Erebango
+430700 RS Erechim
+430705 RS Ernestina
+430710 RS Herval
+430720 RS Erval Grande
+430730 RS Erval Seco
+430740 RS Esmeralda
+430745 RS Esperança do Sul
+430750 RS Espumoso
+430755 RS Estação
+430760 RS Estância Velha
+430770 RS Esteio
+430780 RS Estrela
+430781 RS Estrela Velha
+430783 RS Eugênio de Castro
+430786 RS Fagundes Varela
+430790 RS Farroupilha
+430800 RS Faxinal do Soturno
+430805 RS Faxinalzinho
+430807 RS Fazenda Vilanova
+430810 RS Feliz
+430820 RS Flores da Cunha
+430825 RS Floriano Peixoto
+430830 RS Fontoura Xavier
+430840 RS Formigueiro
+430843 RS Forquetinha
+430845 RS Fortaleza dos Valos
+430850 RS Frederico Westphalen
+430860 RS Garibaldi
+430865 RS Garruchos
+430870 RS Gaurama
+430880 RS General Câmara
+430885 RS Gentil
+430890 RS Getúlio Vargas
+430900 RS Giruá
+430905 RS Glorinha
+430910 RS Gramado
+430912 RS Gramado dos Loureiros
+430915 RS Gramado Xavier
+430920 RS Gravataí
+430925 RS Guabiju
+430930 RS Guaíba
+430940 RS Guaporé
+430950 RS Guarani das Missões
+430955 RS Harmonia
+430957 RS Herveiras
+430960 RS Horizontina
+430965 RS Hulha Negra
+430970 RS Humaitá
+430975 RS Ibarama
+430980 RS Ibiaçá
+430990 RS Ibiraiaras
+430995 RS Ibirapuitã
+431000 RS Ibirubá
+431010 RS Igrejinha
+431020 RS Ijuí
+431030 RS Ilópolis
+431033 RS Imbé
+431036 RS Imigrante
+431040 RS Independência
+431041 RS Inhacorá
+431043 RS Ipê
+431046 RS Ipiranga do Sul
+431050 RS Iraí
+431053 RS Itaara
+431055 RS Itacurubi
+431057 RS Itapuca
+431060 RS Itaqui
+431065 RS Itati
+431070 RS Itatiba do Sul
+431075 RS Ivorá
+431080 RS Ivoti
+431085 RS Jaboticaba
+431087 RS Jacuizinho
+431090 RS Jacutinga
+431100 RS Jaguarão
+431110 RS Jaguari
+431112 RS Jaquirana
+431113 RS Jari
+431115 RS Jóia
+431120 RS Júlio de Castilhos
+431123 RS Lagoa Bonita do Sul
+431125 RS Lagoão
+431127 RS Lagoa dos Três Cantos
+431130 RS Lagoa Vermelha
+431140 RS Lajeado
+431142 RS Lajeado do Bugre
+431150 RS Lavras do Sul
+431160 RS Liberato Salzano
+431162 RS Lindolfo Collor
+431164 RS Linha Nova
+431170 RS Machadinho
+431171 RS Maçambara
+431173 RS Mampituba
+431175 RS Manoel Viana
+431177 RS Maquiné
+431179 RS Maratá
+431180 RS Marau
+431190 RS Marcelino Ramos
+431198 RS Mariana Pimentel
+431200 RS Mariano Moro
+431205 RS Marques de Souza
+431210 RS Mata
+431213 RS Mato Castelhano
+431215 RS Mato Leitão
+431217 RS Mato Queimado
+431220 RS Maximiliano de Almeida
+431225 RS Minas do Leão
+431230 RS Miraguaí
+431235 RS Montauri
+431237 RS Monte Alegre dos Campos
+431238 RS Monte Belo do Sul
+431240 RS Montenegro
+431242 RS Mormaço
+431244 RS Morrinhos do Sul
+431245 RS Morro Redondo
+431247 RS Morro Reuter
+431250 RS Mostardas
+431260 RS Muçum
+431261 RS Muitos Capões
+431262 RS Muliterno
+431265 RS Não-Me-Toque
+431267 RS Nicolau Vergueiro
+431270 RS Nonoai
+431275 RS Nova Alvorada
+431280 RS Nova Araçá
+431290 RS Nova Bassano
+431295 RS Nova Boa Vista
+431300 RS Nova Bréscia
+431301 RS Nova Candelária
+431303 RS Nova Esperança do Sul
+431306 RS Nova Hartz
+431308 RS Nova Pádua
+431310 RS Nova Palma
+431320 RS Nova Petrópolis
+431330 RS Nova Prata
+431333 RS Nova Ramada
+431335 RS Nova Roma do Sul
+431337 RS Nova Santa Rita
+431339 RS Novo Cabrais
+431340 RS Novo Hamburgo
+431342 RS Novo Machado
+431344 RS Novo Tiradentes
+431346 RS Novo Xingu
+431349 RS Novo Barreiro
+431350 RS Osório
+431360 RS Paim Filho
+431365 RS Palmares do Sul
+431370 RS Palmeira das Missões
+431380 RS Palmitinho
+431390 RS Panambi
+431395 RS Pantano Grande
+431400 RS Paraí
+431402 RS Paraíso do Sul
+431403 RS Pareci Novo
+431405 RS Parobé
+431406 RS Passa Sete
+431407 RS Passo do Sobrado
+431410 RS Passo Fundo
+431415 RS Paverama
+431417 RS Pedras Altas
+431420 RS Pedro Osório
+431430 RS Pejuçara
+431440 RS Pelotas
+431442 RS Picada Café
+431445 RS Pinhal
+431446 RS Pinhal da Serra
+431447 RS Pinhal Grande
+431449 RS Pinheirinho do Vale
+431450 RS Pinheiro Machado
+431455 RS Pirapó
+431460 RS Piratini
+431470 RS Planalto
+431475 RS Poço das Antas
+431477 RS Pontão
+431478 RS Ponte Preta
+431480 RS Portão
+431490 RS Porto Alegre
+431500 RS Porto Lucena
+431505 RS Porto Mauá
+431507 RS Porto Vera Cruz
+431510 RS Porto Xavier
+431513 RS Pouso Novo
+431514 RS Presidente Lucena
+431515 RS Progresso
+431517 RS Protásio Alves
+431520 RS Putinga
+431530 RS Quaraí
+431531 RS Quatro Irmãos
+431532 RS Quevedos
+431535 RS Quinze de Novembro
+431540 RS Redentora
+431545 RS Relvado
+431550 RS Restinga Seca
+431555 RS Rio dos Índios
+431560 RS Rio Grande
+431570 RS Rio Pardo
+431575 RS Riozinho
+431580 RS Roca Sales
+431590 RS Rodeio Bonito
+431595 RS Rolador
+431600 RS Rolante
+431610 RS Ronda Alta
+431620 RS Rondinha
+431630 RS Roque Gonzales
+431640 RS Rosário do Sul
+431642 RS Sagrada Família
+431643 RS Saldanha Marinho
+431645 RS Salto do Jacuí
+431647 RS Salvador das Missões
+431650 RS Salvador do Sul
+431660 RS Sananduva
+431670 RS Santa Bárbara do Sul
+431673 RS Santa Cecília do Sul
+431675 RS Santa Clara do Sul
+431680 RS Santa Cruz do Sul
+431690 RS Santa Maria
+431695 RS Santa Maria do Herval
+431697 RS Santa Margarida do Sul
+431700 RS Santana da Boa Vista
+431710 RS Santana do Livramento
+431720 RS Santa Rosa
+431725 RS Santa Tereza
+431730 RS Santa Vitória do Palmar
+431740 RS Santiago
+431750 RS Santo Ângelo
+431755 RS Santo Antônio do Palma
+431760 RS Santo Antônio da Patrulha
+431770 RS Santo Antônio das Missões
+431775 RS Santo Antônio do Planalto
+431780 RS Santo Augusto
+431790 RS Santo Cristo
+431795 RS Santo Expedito do Sul
+431800 RS São Borja
+431805 RS São Domingos do Sul
+431810 RS São Francisco de Assis
+431820 RS São Francisco de Paula
+431830 RS São Gabriel
+431840 RS São Jerônimo
+431842 RS São João da Urtiga
+431843 RS São João do Polêsine
+431844 RS São Jorge
+431845 RS São José das Missões
+431846 RS São José do Herval
+431848 RS São José do Hortêncio
+431849 RS São José do Inhacorá
+431850 RS São José do Norte
+431860 RS São José do Ouro
+431861 RS São José do Sul
+431862 RS São José dos Ausentes
+431870 RS São Leopoldo
+431880 RS São Lourenço do Sul
+431890 RS São Luiz Gonzaga
+431900 RS São Marcos
+431910 RS São Martinho
+431912 RS São Martinho da Serra
+431915 RS São Miguel das Missões
+431920 RS São Nicolau
+431930 RS São Paulo das Missões
+431935 RS São Pedro da Serra
+431936 RS São Pedro das Missões
+431937 RS São Pedro do Butiá
+431940 RS São Pedro do Sul
+431950 RS São Sebastião do Caí
+431960 RS São Sepé
+431970 RS São Valentim
+431971 RS São Valentim do Sul
+431973 RS São Valério do Sul
+431975 RS São Vendelino
+431980 RS São Vicente do Sul
+431990 RS Sapiranga
+432000 RS Sapucaia do Sul
+432010 RS Sarandi
+432020 RS Seberi
+432023 RS Sede Nova
+432026 RS Segredo
+432030 RS Selbach
+432032 RS Senador Salgado Filho
+432035 RS Sentinela do Sul
+432040 RS Serafina Corrêa
+432045 RS Sério
+432050 RS Sertão
+432055 RS Sertão Santana
+432057 RS Sete de Setembro
+432060 RS Severiano de Almeida
+432065 RS Silveira Martins
+432067 RS Sinimbu
+432070 RS Sobradinho
+432080 RS Soledade
+432085 RS Tabaí
+432090 RS Tapejara
+432100 RS Tapera
+432110 RS Tapes
+432120 RS Taquara
+432130 RS Taquari
+432132 RS Taquaruçu do Sul
+432135 RS Tavares
+432140 RS Tenente Portela
+432143 RS Terra de Areia
+432145 RS Teutônia
+432146 RS Tio Hugo
+432147 RS Tiradentes do Sul
+432149 RS Toropi
+432150 RS Torres
+432160 RS Tramandaí
+432162 RS Travesseiro
+432163 RS Três Arroios
+432166 RS Três Cachoeiras
+432170 RS Três Coroas
+432180 RS Três de Maio
+432183 RS Três Forquilhas
+432185 RS Três Palmeiras
+432190 RS Três Passos
+432195 RS Trindade do Sul
+432200 RS Triunfo
+432210 RS Tucunduva
+432215 RS Tunas
+432218 RS Tupanci do Sul
+432220 RS Tupanciretã
+432225 RS Tupandi
+432230 RS Tuparendi
+432232 RS Turuçu
+432234 RS Ubiretama
+432235 RS União da Serra
+432237 RS Unistalda
+432240 RS Uruguaiana
+432250 RS Vacaria
+432252 RS Vale Verde
+432253 RS Vale do Sol
+432254 RS Vale Real
+432255 RS Vanini
+432260 RS Venâncio Aires
+432270 RS Vera Cruz
+432280 RS Veranópolis
+432285 RS Vespasiano Correa
+432290 RS Viadutos
+432300 RS Viamão
+432310 RS Vicente Dutra
+432320 RS Victor Graeff
+432330 RS Vila Flores
+432335 RS Vila Lângaro
+432340 RS Vila Maria
+432345 RS Vila Nova do Sul
+432350 RS Vista Alegre
+432360 RS Vista Alegre do Prata
+432370 RS Vista Gaúcha
+432375 RS Vitória das Missões
+432377 RS Westfália
+432380 RS Xangri-lá
+500020 MS Água Clara
+500025 MS Alcinópolis
+500060 MS Amambai
+500070 MS Anastácio
+500080 MS Anaurilândia
+500085 MS Angélica
+500090 MS Antônio João
+500100 MS Aparecida do Taboado
+500110 MS Aquidauana
+500124 MS Aral Moreira
+500150 MS Bandeirantes
+500190 MS Bataguassu
+500200 MS Batayporã
+500210 MS Bela Vista
+500215 MS Bodoquena
+500220 MS Bonito
+500230 MS Brasilândia
+500240 MS Caarapó
+500260 MS Camapuã
+500270 MS Campo Grande
+500280 MS Caracol
+500290 MS Cassilândia
+500295 MS Chapadão do Sul
+500310 MS Corguinho
+500315 MS Coronel Sapucaia
+500320 MS Corumbá
+500325 MS Costa Rica
+500330 MS Coxim
+500345 MS Deodápolis
+500348 MS Dois Irmãos do Buriti
+500350 MS Douradina
+500370 MS Dourados
+500375 MS Eldorado
+500380 MS Fátima do Sul
+500400 MS Glória de Dourados
+500410 MS Guia Lopes da Laguna
+500430 MS Iguatemi
+500440 MS Inocência
+500450 MS Itaporã
+500460 MS Itaquiraí
+500470 MS Ivinhema
+500480 MS Japorã
+500490 MS Jaraguari
+500500 MS Jardim
+500510 MS Jateí
+500515 MS Juti
+500520 MS Ladário
+500525 MS Laguna Carapã
+500540 MS Maracaju
+500560 MS Miranda
+500568 MS Mundo Novo
+500570 MS Naviraí
+500580 MS Nioaque
+500600 MS Nova Alvorada do Sul
+500620 MS Nova Andradina
+500625 MS Novo Horizonte do Sul
+500630 MS Paranaíba
+500635 MS Paranhos
+500640 MS Pedro Gomes
+500660 MS Ponta Porã
+500690 MS Porto Murtinho
+500710 MS Ribas do Rio Pardo
+500720 MS Rio Brilhante
+500730 MS Rio Negro
+500740 MS Rio Verde de Mato Grosso
+500750 MS Rochedo
+500755 MS Santa Rita do Pardo
+500769 MS São Gabriel do Oeste
+500770 MS Sete Quedas
+500780 MS Selvíria
+500790 MS Sidrolândia
+500793 MS Sonora
+500795 MS Tacuru
+500797 MS Taquarussu
+500800 MS Terenos
+500830 MS Três Lagoas
+500840 MS Vicentina
+510010 MT Acorizal
+510020 MT Água Boa
+510025 MT Alta Floresta
+510030 MT Alto Araguaia
+510035 MT Alto Boa Vista
+510040 MT Alto Garças
+510050 MT Alto Paraguai
+510060 MT Alto Taquari
+510080 MT Apiacás
+510100 MT Araguaiana
+510120 MT Araguainha
+510125 MT Araputanga
+510130 MT Arenápolis
+510140 MT Aripuanã
+510160 MT Barão de Melgaço
+510170 MT Barra do Bugres
+510180 MT Barra do Garças
+510185 MT Bom Jesus do Araguaia
+510190 MT Brasnorte
+510250 MT Cáceres
+510260 MT Campinápolis
+510263 MT Campo Novo do Parecis
+510267 MT Campo Verde
+510268 MT Campos de Júlio
+510269 MT Canabrava do Norte
+510270 MT Canarana
+510279 MT Carlinda
+510285 MT Castanheira
+510300 MT Chapada dos Guimarães
+510305 MT Cláudia
+510310 MT Cocalinho
+510320 MT Colíder
+510325 MT Colniza
+510330 MT Comodoro
+510335 MT Confresa
+510336 MT Conquista d`Oeste
+510337 MT Cotriguaçu
+510340 MT Cuiabá
+510343 MT Curvelândia
+510345 MT Denise
+510350 MT Diamantino
+510360 MT Dom Aquino
+510370 MT Feliz Natal
+510380 MT Figueirópolis d`Oeste
+510385 MT Gaúcha do Norte
+510390 MT General Carneiro
+510395 MT Glória d`Oeste
+510410 MT Guarantã do Norte
+510420 MT Guiratinga
+510450 MT Indiavaí
+510455 MT Itaúba
+510460 MT Itiquira
+510480 MT Jaciara
+510490 MT Jangada
+510500 MT Jauru
+510510 MT Juara
+510515 MT Juína
+510517 MT Juruena
+510520 MT Juscimeira
+510523 MT Lambari d`Oeste
+510525 MT Lucas do Rio Verde
+510530 MT Luciára
+510550 MT Vila Bela da Santíssima Trindade
+510558 MT Marcelândia
+510560 MT Matupá
+510562 MT Mirassol d`Oeste
+510590 MT Nobres
+510600 MT Nortelândia
+510610 MT Nossa Senhora do Livramento
+510615 MT Nova Bandeirantes
+510618 MT Nova Lacerda
+510619 MT Nova Santa Helena
+510620 MT Nova Brasilândia
+510621 MT Nova Canaã do Norte
+510622 MT Nova Mutum
+510623 MT Nova Olímpia
+510624 MT Nova Ubiratã
+510625 MT Nova Xavantina
+510626 MT Novo Mundo
+510627 MT Novo Horizonte do Norte
+510628 MT Novo São Joaquim
+510629 MT Paranaíta
+510630 MT Paranatinga
+510631 MT Novo Santo Antônio
+510637 MT Pedra Preta
+510642 MT Peixoto de Azevedo
+510645 MT Planalto da Serra
+510650 MT Poconé
+510665 MT Pontal do Araguaia
+510670 MT Ponte Branca
+510675 MT Pontes e Lacerda
+510677 MT Porto Alegre do Norte
+510680 MT Porto dos Gaúchos
+510682 MT Porto Esperidião
+510685 MT Porto Estrela
+510700 MT Poxoréo
+510704 MT Primavera do Leste
+510706 MT Querência
+510710 MT São José dos Quatro Marcos
+510715 MT Reserva do Cabaçal
+510718 MT Ribeirão Cascalheira
+510719 MT Ribeirãozinho
+510720 MT Rio Branco
+510724 MT Santa Carmem
+510726 MT Santo Afonso
+510729 MT São José do Povo
+510730 MT São José do Rio Claro
+510735 MT São José do Xingu
+510740 MT São Pedro da Cipa
+510757 MT Rondolândia
+510760 MT Rondonópolis
+510770 MT Rosário Oeste
+510774 MT Santa Cruz do Xingu
+510775 MT Salto do Céu
+510776 MT Santa Rita do Trivelato
+510777 MT Santa Terezinha
+510779 MT Santo Antônio do Leste
+510780 MT Santo Antônio do Leverger
+510785 MT São Félix do Araguaia
+510787 MT Sapezal
+510788 MT Serra Nova Dourada
+510790 MT Sinop
+510792 MT Sorriso
+510794 MT Tabaporã
+510795 MT Tangará da Serra
+510800 MT Tapurah
+510805 MT Terra Nova do Norte
+510810 MT Tesouro
+510820 MT Torixoréu
+510830 MT União do Sul
+510835 MT Vale de São Domingos
+510840 MT Várzea Grande
+510850 MT Vera
+510860 MT Vila Rica
+510880 MT Nova Guarita
+510885 MT Nova Marilândia
+510890 MT Nova Maringá
+510895 MT Nova Monte verde
+520005 GO Abadia de Goiás
+520010 GO Abadiânia
+520013 GO Acreúna
+520015 GO Adelândia
+520017 GO Água Fria de Goiás
+520020 GO Água Limpa
+520025 GO Águas Lindas de Goiás
+520030 GO Alexânia
+520050 GO Aloândia
+520055 GO Alto Horizonte
+520060 GO Alto Paraíso de Goiás
+520080 GO Alvorada do Norte
+520082 GO Amaralina
+520085 GO Americano do Brasil
+520090 GO Amorinópolis
+520110 GO Anápolis
+520120 GO Anhanguera
+520130 GO Anicuns
+520140 GO Aparecida de Goiânia
+520145 GO Aparecida do Rio Doce
+520150 GO Aporé
+520160 GO Araçu
+520170 GO Aragarças
+520180 GO Aragoiânia
+520215 GO Araguapaz
+520235 GO Arenópolis
+520250 GO Aruanã
+520260 GO Aurilândia
+520280 GO Avelinópolis
+520310 GO Baliza
+520320 GO Barro Alto
+520330 GO Bela Vista de Goiás
+520340 GO Bom Jardim de Goiás
+520350 GO Bom Jesus de Goiás
+520355 GO Bonfinópolis
+520357 GO Bonópolis
+520360 GO Brazabrantes
+520380 GO Britânia
+520390 GO Buriti Alegre
+520393 GO Buriti de Goiás
+520396 GO Buritinópolis
+520400 GO Cabeceiras
+520410 GO Cachoeira Alta
+520420 GO Cachoeira de Goiás
+520425 GO Cachoeira Dourada
+520430 GO Caçu
+520440 GO Caiapônia
+520450 GO Caldas Novas
+520455 GO Caldazinha
+520460 GO Campestre de Goiás
+520465 GO Campinaçu
+520470 GO Campinorte
+520480 GO Campo Alegre de Goiás
+520485 GO Campo Limpo de Goiás
+520490 GO Campos Belos
+520495 GO Campos Verdes
+520500 GO Carmo do Rio Verde
+520505 GO Castelândia
+520510 GO Catalão
+520520 GO Caturaí
+520530 GO Cavalcante
+520540 GO Ceres
+520545 GO Cezarina
+520547 GO Chapadão do Céu
+520549 GO Cidade Ocidental
+520551 GO Cocalzinho de Goiás
+520552 GO Colinas do Sul
+520570 GO Córrego do Ouro
+520580 GO Corumbá de Goiás
+520590 GO Corumbaíba
+520620 GO Cristalina
+520630 GO Cristianópolis
+520640 GO Crixás
+520650 GO Cromínia
+520660 GO Cumari
+520670 GO Damianópolis
+520680 GO Damolândia
+520690 GO Davinópolis
+520710 GO Diorama
+520725 GO Doverlândia
+520735 GO Edealina
+520740 GO Edéia
+520750 GO Estrela do Norte
+520753 GO Faina
+520760 GO Fazenda Nova
+520780 GO Firminópolis
+520790 GO Flores de Goiás
+520800 GO Formosa
+520810 GO Formoso
+520815 GO Gameleira de Goiás
+520830 GO Divinópolis de Goiás
+520840 GO Goianápolis
+520850 GO Goiandira
+520860 GO Goianésia
+520870 GO Goiânia
+520880 GO Goianira
+520890 GO Goiás
+520910 GO Goiatuba
+520915 GO Gouvelândia
+520920 GO Guapó
+520929 GO Guaraíta
+520940 GO Guarani de Goiás
+520945 GO Guarinos
+520960 GO Heitoraí
+520970 GO Hidrolândia
+520980 GO Hidrolina
+520990 GO Iaciara
+520993 GO Inaciolândia
+520995 GO Indiara
+521000 GO Inhumas
+521010 GO Ipameri
+521015 GO Ipiranga de Goiás
+521020 GO Iporá
+521030 GO Israelândia
+521040 GO Itaberaí
+521056 GO Itaguari
+521060 GO Itaguaru
+521080 GO Itajá
+521090 GO Itapaci
+521100 GO Itapirapuã
+521120 GO Itapuranga
+521130 GO Itarumã
+521140 GO Itauçu
+521150 GO Itumbiara
+521160 GO Ivolândia
+521170 GO Jandaia
+521180 GO Jaraguá
+521190 GO Jataí
+521200 GO Jaupaci
+521205 GO Jesúpolis
+521210 GO Joviânia
+521220 GO Jussara
+521225 GO Lagoa Santa
+521230 GO Leopoldo de Bulhões
+521250 GO Luziânia
+521260 GO Mairipotaba
+521270 GO Mambaí
+521280 GO Mara Rosa
+521290 GO Marzagão
+521295 GO Matrinchã
+521300 GO Maurilândia
+521305 GO Mimoso de Goiás
+521308 GO Minaçu
+521310 GO Mineiros
+521340 GO Moiporá
+521350 GO Monte Alegre de Goiás
+521370 GO Montes Claros de Goiás
+521375 GO Montividiu
+521377 GO Montividiu do Norte
+521380 GO Morrinhos
+521385 GO Morro Agudo de Goiás
+521390 GO Mossâmedes
+521400 GO Mozarlândia
+521405 GO Mundo Novo
+521410 GO Mutunópolis
+521440 GO Nazário
+521450 GO Nerópolis
+521460 GO Niquelândia
+521470 GO Nova América
+521480 GO Nova Aurora
+521483 GO Nova Crixás
+521486 GO Nova Glória
+521487 GO Nova Iguaçu de Goiás
+521490 GO Nova Roma
+521500 GO Nova Veneza
+521520 GO Novo Brasil
+521523 GO Novo Gama
+521525 GO Novo Planalto
+521530 GO Orizona
+521540 GO Ouro Verde de Goiás
+521550 GO Ouvidor
+521560 GO Padre Bernardo
+521565 GO Palestina de Goiás
+521570 GO Palmeiras de Goiás
+521580 GO Palmelo
+521590 GO Palminópolis
+521600 GO Panamá
+521630 GO Paranaiguara
+521640 GO Paraúna
+521645 GO Perolândia
+521680 GO Petrolina de Goiás
+521690 GO Pilar de Goiás
+521710 GO Piracanjuba
+521720 GO Piranhas
+521730 GO Pirenópolis
+521740 GO Pires do Rio
+521760 GO Planaltina
+521770 GO Pontalina
+521800 GO Porangatu
+521805 GO Porteirão
+521810 GO Portelândia
+521830 GO Posse
+521839 GO Professor Jamil
+521850 GO Quirinópolis
+521860 GO Rialma
+521870 GO Rianápolis
+521878 GO Rio Quente
+521880 GO Rio Verde
+521890 GO Rubiataba
+521900 GO Sanclerlândia
+521910 GO Santa Bárbara de Goiás
+521920 GO Santa Cruz de Goiás
+521925 GO Santa Fé de Goiás
+521930 GO Santa Helena de Goiás
+521935 GO Santa Isabel
+521940 GO Santa Rita do Araguaia
+521945 GO Santa Rita do Novo Destino
+521950 GO Santa Rosa de Goiás
+521960 GO Santa Tereza de Goiás
+521970 GO Santa Terezinha de Goiás
+521971 GO Santo Antônio da Barra
+521973 GO Santo Antônio de Goiás
+521975 GO Santo Antônio do Descoberto
+521980 GO São Domingos
+521990 GO São Francisco de Goiás
+522000 GO São João d`Aliança
+522005 GO São João da Paraúna
+522010 GO São Luís de Montes Belos
+522015 GO São Luíz do Norte
+522020 GO São Miguel do Araguaia
+522026 GO São Miguel do Passa Quatro
+522028 GO São Patrício
+522040 GO São Simão
+522045 GO Senador Canedo
+522050 GO Serranópolis
+522060 GO Silvânia
+522068 GO Simolândia
+522070 GO Sítio d`Abadia
+522100 GO Taquaral de Goiás
+522108 GO Teresina de Goiás
+522119 GO Terezópolis de Goiás
+522130 GO Três Ranchos
+522140 GO Trindade
+522145 GO Trombas
+522150 GO Turvânia
+522155 GO Turvelândia
+522157 GO Uirapuru
+522160 GO Uruaçu
+522170 GO Uruana
+522180 GO Urutaí
+522185 GO Valparaíso de Goiás
+522190 GO Varjão
+522200 GO Vianópolis
+522205 GO Vicentinópolis
+522220 GO Vila Boa
+522230 GO Vila Propício
+530010 DF Brasília
+220095 PI Aroeiras do Itaim
+500390 MS Figueirão
+510452 MT Ipiranga do Norte
+510454 MT Itanhangá
+510617 MT Nova Nazaré
+220672 PI Nazária
+150475 PA Mojuí dos Campos
+421265 SC Pescaria Brava
+422000 SC Balneário Rincão
+431454 RS Pinto Bandeira
+500627 MS Paraíso das Águas
