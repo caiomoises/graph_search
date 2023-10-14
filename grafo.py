@@ -11,21 +11,20 @@ def alocaMatriz():
 
 # Função para carregar os dados das cidades do RN
 def RN():
-    todasCidades = Cidade("bancoDeDados/cidades.csv")
-    todosLocais = GPS("bancoDeDados/coordenada.csv")
+    todasCidades = getCidades("database/cidades.csv")
+    todosLocais = getGps("database/coordenada.csv")
 
-    d = DataItem(todasCidades, todosLocais)
+    data_items = []
 
-    cidadesDoRN = [None] * 167
+    for cidade_info in todasCidades:
+        cidade = Cidade(cidade_info.id, cidade_info.estado, cidade_info.cidade)
+        for local_info in todosLocais:
+            if cidade_info.id == local_info.id:
+                gps = GPS(local_info.id, local_info.la, local_info.lo)
+                data_item = DataItem(cidade, gps)
+                data_items.append(data_item)
 
-    k = 0
-
-    for i in range(5570):
-        if d[i].city.estado == "RN":
-            cidadesDoRN[k] = d[i]
-            k += 1
-
-    return cidadesDoRN
+    return data_items
 
 # Função para criar uma matriz (grafo)
 def criarGrafo():
@@ -64,10 +63,16 @@ def printCidadeComMaisVizinhos(matriz, informacoesRN, Distancia):
             results[0] = i
             results[1] = cont
 
-    print("\n\t\t %s\t tem %d vizinhas!!!\n\n" % (informacoesRN[results[0]].city.cidade, results[1]))
+    if results[1] > 0:
+        print(" %s tem %d vizinhas!!!\n" % (informacoesRN[results[0]].city.cidade, results[1]))
+
+
+# Exemplo de uso:
+# printCidadeComMaisVizinhos(matriz, informacoesRN, Distancia)
+
 
 # Função para imprimir cidades sem vizinhos
-def printCidadeSemVizinhos(matriz, informacoesRN, Distancias):
+def printCidadeSemVizinhos(matriz, informacoesRN, Distancia):
     for i in range(SIZE):
         has_neighbor = False
 
@@ -77,10 +82,10 @@ def printCidadeSemVizinhos(matriz, informacoesRN, Distancias):
                 break
 
         if not has_neighbor:
-            print("\n\t %s e tem 0 vizinhas!!!\n\n" % informacoesRN[i].city.cidade)
+            print("\n\t %s tem 0 vizinhas!!!\n\n" % informacoesRN[i].city.cidade)
             break
     else:
-        print("\n\t Nao ha cidades sem vizinhas!!!\n\n")
+        print("\n\t Não há cidades sem vizinhas!!!\n\n")
 
 # Função para imprimir a distância necessária para todas serem vizinhas
 def printDistTodasVizinhas(informacoesRN):
@@ -94,7 +99,7 @@ def printDistTodasVizinhas(informacoesRN):
                 if dist > maior:
                     maior = dist
 
-    print("\nEh necessario que a distancia seja de %.5f para que todas sejam vizinhas!!!\n" % maior)
+    print("\nÉ necessario que a distancia seja de %.5f para que todas sejam vizinhas!!!\n" % maior)
 
 # Função para imprimir a distância necessária para nenhuma ser vizinha
 def printDistMinTodasVizinhas(informacoesRN):
@@ -108,7 +113,7 @@ def printDistMinTodasVizinhas(informacoesRN):
                 if dist > maior:
                     maior = dist
 
-    print("\nEh necessario que a distancia seja de %.5f para que nenhuma seja vizinhas!!!\n" % maior)
+    print("\nA maior distância entre duas cidades vizinhas é: %.5f km\n" % maior)
 
 # Função para imprimir a distância necessária para todas serem vizinhas
 def printDistMaxNenhumVizinhas(informacoesRN):
@@ -122,7 +127,7 @@ def printDistMaxNenhumVizinhas(informacoesRN):
                 if dist < menor:
                     menor = dist
 
-    print("\nEh necessaria que a distancia seja de %.5f para que todas sejam vizinhas!!!\n\n" % menor)
+    print("\nA menor distância para que uma cidade tenha algum vizinho é: %.5f km\n" % menor)
 
 # Função para imprimir a matriz do grafo
 def printGrafoMatricial(matriz):

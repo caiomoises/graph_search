@@ -1,5 +1,5 @@
 # Importações de módulos
-
+from cidade_gps import*
 
 # Definição de tipos de dados
 class Cidade:
@@ -15,8 +15,8 @@ class GPS:
         self.lo = lo
 
 class DataItem:
-    def __init__(self, key, city, GPS):
-        self.key = key
+    def __init__(self, city, GPS):
+        self.key = city.id
         self.city = city
         self.GPS = GPS
 
@@ -28,7 +28,7 @@ def getCidades(arquivo):
     with open(arquivo, 'r') as f:
         next(f)  # Ignora a primeira linha com cabeçalho
         for line in f:
-            parts = line.split(';')
+            parts = line.split(' ')
             cod = int(parts[0].strip())
             uf = parts[1].strip()
             cid = parts[2].strip()
@@ -43,7 +43,7 @@ def getGps(localizacoes):
     with open(localizacoes, 'r') as f:
         next(f)  # Ignora a primeira linha com cabeçalho
         for line in f:
-            parts = line.split(';')
+            parts = line.strip().split(';')
             cod = int(parts[0].strip())
             la = float(parts[1].strip())
             lo = float(parts[2].strip())
@@ -51,6 +51,7 @@ def getGps(localizacoes):
             local.append(gps_obj)
 
     return local
+
 
 def getItens(cities, local):
     dados = []
