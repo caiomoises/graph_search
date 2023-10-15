@@ -67,10 +67,6 @@ def printCidadeComMaisVizinhos(matriz, informacoesRN, Distancia):
         print(" %s tem %d vizinhas!!!\n" % (informacoesRN[results[0]].city.cidade, results[1]))
 
 
-# Exemplo de uso:
-# printCidadeComMaisVizinhos(matriz, informacoesRN, Distancia)
-
-
 # Função para imprimir cidades sem vizinhos
 def printCidadeSemVizinhos(matriz, informacoesRN, Distancia):
     for i in range(SIZE):
