@@ -1,8 +1,9 @@
 <h1 align="center"><b><i>Graph search</i></b></h1>
 
-<!-- <p align ="center">
+<p align ="center">
     <img src="GRAPHSEARCH.png" style= "width: 60%; height: auto;" align="right" />
-</p> -->
+</p>
+
 
 #### Docente:
 - [Kennedy Reurison Lopes](https://github.com/kennedyufersa)
@@ -18,6 +19,8 @@
 
 ## INTRODUÇÃO
 
+Grafos são estruturas de dados que representam conjuntos de elementos, chamados nós ou vértices, os quais são unidos por outros elementos chamados arestas. Um exemplo de utilização de grafos em abstrações do cotidiano pode ser a presentação de cidades sendo nós e as estradas que as conectam sendo arestas.
+
 Este código tem como objetivo criar um grafo matricial das cidades no estado do Rio
 Grande do Norte (RN) com base nas coordenadas de latitude e longitude (GPS) de cada cidade.
 O grafo representa as relações de vizinhança entre as cidades, onde duas cidades são
@@ -28,6 +31,7 @@ vizinhos e determinar distâncias mínimas e máximas para que as cidades sejam 
 vizinhas.
 
 - Exemplo:
+  
     Para ilustrar o funcionamento do código, suponhamos que temos um conjunto de
 cidades no RN, cada uma com suas coordenadas GPS (latitude e longitude). Queremos
 determinar quais cidades são vizinhas considerando que a distância máxima para a vizinhança
@@ -62,16 +66,16 @@ com base nas coordenadas geográficas. Depois, o código realiza várias anális
 cidades com mais vizinhos, cidades sem vizinhos e métricas de distância.
 
 ## FUNÇÕES EM PYTHON
-    - ‘alocaMatriz’: Aloca uma matriz para representar o grafo.
-    - ‘RN’: Retorna um subconjunto de cidades pertencentes ao Rio Grande do Norte.
-    - ‘criarGrafo’: Cria uma matriz para representar o grafo.
-    - ‘calculaDistancia’: Calcula a distância entre as cidades e preenche a matriz do grafo.
-    - ‘printCidadeComMaisVizinhos’: Imprime a cidade do RN com mais vizinhos.
-    - ‘printCidadeSemVizinhos’: Imprime cidades do RN que não têm vizinhos.
-    - ‘printDistTodasVizinhas’: Imprime a distância necessária para que todas as cidades sejam vizinhas.
-    - ‘printDistMinTodasVizinhas’: Imprime a distância necessária para que nenhuma cidade seja vizinha.
-    - ‘printDistMaxNenhumVizinhas’: Imprime a distância necessária para que todas as cidades sejam vizinhas.
-    - ‘printGrafoMatricial’: Imprime uma representação visual do grafo matricial.
+- ‘alocaMatriz’: Aloca uma matriz para representar o grafo.
+- ‘RN’: Retorna um subconjunto de cidades pertencentes ao Rio Grande do Norte.
+- ‘criarGrafo’: Cria uma matriz para representar o grafo.
+- ‘calculaDistancia’: Calcula a distância entre as cidades e preenche a matriz do grafo.
+- ‘printCidadeComMaisVizinhos’: Imprime a cidade do RN com mais vizinhos.
+- ‘printCidadeSemVizinhos’: Imprime cidades do RN que não têm vizinhos.
+- ‘printDistTodasVizinhas’: Imprime a distância necessária para que todas as cidades sejam vizinhas.
+- ‘printDistMinTodasVizinhas’: Imprime a distância necessária para que nenhuma cidade seja vizinha.
+- ‘printDistMaxNenhumVizinhas’: Imprime a distância necessária para que todas as cidades sejam vizinhas.
+- ‘printGrafoMatricial’: Imprime uma representação visual do grafo matricial.
 
 ## LOGICA PRINCIPAL
 A lógica principal envolve a alocação de uma matriz, o cálculo de distâncias, a
@@ -86,16 +90,16 @@ distância (D) para determinar as cidades vizinhas e aplicaram métricas para id
 cidades com mais vizinhos.
     Resultados dos Testes:
 
-    Teste 1: Identificação da Cidade com Mais Vizinhos
+- Teste 1: Identificação da Cidade com Mais Vizinhos
     - Distância (D) = 0.05
     - Resultado: A cidade de Natal tem 7 vizinhos.
-    Teste 2: Identificação de Cidades Sem Vizinhos
+- Teste 2: Identificação de Cidades Sem Vizinhos
     - Distância (D) = 0.2
     - Resultado: Todas as cidades têm pelo menos um vizinho.
-    Teste 3: Distância Necessária para Todas as Cidades Serem Vizinhas
+- Teste 3: Distância Necessária para Todas as Cidades Serem Vizinhas
     - Resultado: É necessária uma distância de 0.04972 para que todas as cidades sejam
     vizinhas.
-    Teste 4: Distância Necessária para Nenhuma Cidade Ser Vizinha
+- Teste 4: Distância Necessária para Nenhuma Cidade Ser Vizinha
     - Resultado: É necessária uma distância de 0.15508 para que nenhuma cidade seja
     vizinha.
 Os testes demonstraram que o código é eficaz na criação do grafo matricial das cidades
@@ -110,36 +114,37 @@ Durante o desenvolvimento deste código, alguns desafios foram identificados e
 superados para garantir que o grafo matricial das cidades vizinhas no RN fosse criado com
 precisão. Abaixo, destacamos os principais desafios encontrados e as soluções adotadas:
 
-    1. Leitura de Dados a partir de Arquivos CSV:
- Um dos principais desafios foi ler as informações das cidades e suas coordenadas GPS
+#### 1. Leitura de Dados a partir de Arquivos CSV:
+ - Um dos principais desafios foi ler as informações das cidades e suas coordenadas GPS
 a partir de arquivos CSV, que não estavam em um formato diretamente compatível com o
 Python. Para superar esse desafio, foi necessário analisar e tratar esses arquivos de maneira
 eficaz.
 
-Solução: Utilizamos a biblioteca `csv` do Python para fazer a leitura dos arquivos
+- Solução: Utilizamos a biblioteca `csv` do Python para fazer a leitura dos arquivos
 CSV e transformar os dados em objetos Python. O código foi adaptado para interpretar as
 informações corretamente, convertendo strings em tipos de dados apropriados.
 
-    2. Cálculo de Distâncias Geoespaciais:
-Graph Search Página 5
-     Calcular a distância entre duas cidades com base nas coordenadas GPS foi um desafio,
+#### 2. Cálculo de Distâncias Geoespaciais:
+- Graph Search Página 5
+- Calcular a distância entre duas cidades com base nas coordenadas GPS foi um desafio,
 pois envolveu cálculos matemáticos complexos para obter a distância em unidades
 geoespaciais.
      
-Solução: Implementamos uma função para calcular a distância geoespacial entre as
+- Solução: Implementamos uma função para calcular a distância geoespacial entre as
 cidades usando a fórmula da distância euclidiana no plano cartesiano. Esta solução permitiu a
 conversão de coordenadas GPS em distâncias em unidades padronizadas para comparação.
 
-    3. Construção do Grafo Matricial:    
-A construção do grafo matricial envolveu a criação de uma matriz que representasse
+#### 3. Construção do Grafo Matricial:    
+- A construção do grafo matricial envolveu a criação de uma matriz que representasse
 as relações de vizinhança entre as cidades com base nas distâncias calculadas. Garantir que essa
 matriz fosse preenchida corretamente foi um desafio.
 
-Solução: Criamos uma função dedicada para preencher a matriz do grafo,
+- Solução: Criamos uma função dedicada para preencher a matriz do grafo,
 considerando as distâncias calculadas entre as cidades. Também definimos critérios claros para
 determinar quando duas cidades são vizinhas ou não com base na distância máxima
 especificada.
-    Essas soluções permitiram superar os desafios identificados durante o desenvolvimento
+
+Essas soluções permitiram superar os desafios identificados durante o desenvolvimento
 do código e garantir a criação precisa do grafo matricial que representa as relações de
 vizinhança entre as cidades no RN. O projeto foi concluído com sucesso, permitindo análises
 geoespaciais valiosas.
