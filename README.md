@@ -173,7 +173,7 @@ Graph Search Página 6
 o Após o Git esta configurado, execute o seguinte comando para clonar o
 repositório:
 
-    ▪ git clone https://github.com/caiomoises/collisionHash.git
+    ▪ git clone https://github.com/caiomoises/graph_search.git
     
 o Depois disso, você terá acesso ao código fonte.
 
