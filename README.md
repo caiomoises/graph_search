@@ -177,10 +177,9 @@ repositório:
     
 o Depois disso, você terá acesso ao código fonte.
 
-o Para executá-lo, abra novamente o terminal e digite os seguintes comandos:
+o Para executá-lo, abra novamente o terminal e digite o seguinte comando:
 
-    ▪ gcc main.c -o main
-    ▪ ./main
+    ▪ python3 main.py
     
 o Após o código ser compilado siga os passos descritos no tópico ‘TESTES E RESULTADOS’
 
